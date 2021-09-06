@@ -1,0 +1,118 @@
+{
+  "id": "https://vocabulary.serlo.org/de/taxonomy/174848",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=vocabulary.serlo.org%2Fde%2Ftaxonomy%2F174848",
+  "inbox": "https://test.skohub.io/inbox?target=vocabulary.serlo.org%2Fde%2Ftaxonomy%2F174848",
+  "prefLabel": {
+    "de": "Wichtige Grundbegriffe zu Funktionen"
+  },
+  "narrower": [
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/174858",
+      "prefLabel": {
+        "de": "Aufgaben zum Begriff der Nullstelle"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/176333",
+      "prefLabel": {
+        "de": "Aufgaben zur Wertetabelle"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/114867",
+      "prefLabel": {
+        "de": "Aufgaben zur Verkettung von Funktionen"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/26395",
+      "prefLabel": {
+        "de": "Aufgaben zur Umkehrfunktion"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/181353",
+      "prefLabel": {
+        "de": "Aufgaben zur Definitions- und Wertemenge"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/176290",
+      "prefLabel": {
+        "de": "Aufgaben zur Lage von Punkten in Bezug auf den Graph"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://vocabulary.serlo.org/de/taxonomy/1302",
+    "prefLabel": {
+      "de": "Funktionsbegriff"
+    }
+  },
+  "inScheme": {
+    "id": "https://vocabulary.serlo.org/de/taxonomy/3",
+    "title": {
+      "de": "Taxonomie de.serlo.org"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

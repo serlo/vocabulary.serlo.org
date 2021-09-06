@@ -1,0 +1,112 @@
+{
+  "id": "https://vocabulary.serlo.org/de/taxonomy/74950",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=vocabulary.serlo.org%2Fde%2Ftaxonomy%2F74950",
+  "inbox": "https://test.skohub.io/inbox?target=vocabulary.serlo.org%2Fde%2Ftaxonomy%2F74950",
+  "prefLabel": {
+    "de": "Was bedeutet Nachhaltigkeit?"
+  },
+  "narrower": [
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/207967",
+      "prefLabel": {
+        "de": "...für unser Miteinander"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/202976",
+      "prefLabel": {
+        "de": "Grundlagen der Nachhaltigkeit"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/210031",
+      "prefLabel": {
+        "de": "... im Sport"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/207966",
+      "prefLabel": {
+        "de": "...in der Wirtschaft"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/182827",
+      "prefLabel": {
+        "de": "Faktoren weltweit"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://vocabulary.serlo.org/de/taxonomy/17744",
+    "prefLabel": {
+      "de": "Nachhaltigkeit"
+    }
+  },
+  "inScheme": {
+    "id": "https://vocabulary.serlo.org/de/taxonomy/3",
+    "title": {
+      "de": "Taxonomie de.serlo.org"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

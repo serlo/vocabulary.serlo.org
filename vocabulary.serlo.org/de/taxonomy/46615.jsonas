@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.iovocabulary.serlo.org/de/taxonomy/46615",
+  "type": "Service",
+  "name": "Gemischte Aufgaben",
+  "preferredUsername": "766f636162756c6172792e7365726c6f2e6f72672f64652f7461786f6e6f6d792f3436363135",
+  "inbox": "https://test.skohub.io/inbox?target=vocabulary.serlo.org%2Fde%2Ftaxonomy%2F46615",
+  "followers": "https://test.skohub.io/followers?subject=vocabulary.serlo.org%2Fde%2Ftaxonomy%2F46615",
+  "publicKey": {
+    "id": "https://test.skohub.iovocabulary.serlo.org/de/taxonomy/46615#main-key",
+    "owner": "https://test.skohub.iovocabulary.serlo.org/de/taxonomy/46615",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "https://vocabulary.serlo.org/de/taxonomy/1290",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=vocabulary.serlo.org%2Fde%2Ftaxonomy%2F1290",
+  "inbox": "https://test.skohub.io/inbox?target=vocabulary.serlo.org%2Fde%2Ftaxonomy%2F1290",
+  "prefLabel": {
+    "de": "Stochastik"
+  },
+  "narrower": [
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/22778",
+      "prefLabel": {
+        "de": "Daten und Datendarstellung"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/192971",
+      "prefLabel": {
+        "de": "Spieltheorie"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/186075",
+      "prefLabel": {
+        "de": "Simulation von Zufallsexperimenten"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/22842",
+      "prefLabel": {
+        "de": "Bedingte Wahrscheinlichkeit und Unabhängigkeit"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/1439",
+      "prefLabel": {
+        "de": "Zufallsgrößen"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/22792",
+      "prefLabel": {
+        "de": "Hypothesentests"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/1344",
+      "prefLabel": {
+        "de": "Kombinatorik"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/22810",
+      "prefLabel": {
+        "de": "Wichtige Modelle und Verteilungen"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/22779",
+      "prefLabel": {
+        "de": "Relative Häufigkeit und Wahrscheinlichkeit"
+      }
+    },
+    {
+      "id": "https://vocabulary.serlo.org/de/taxonomy/1313",
+      "prefLabel": {
+        "de": "Grundbegriffe und Methoden"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://vocabulary.serlo.org/de/taxonomy/5",
+    "prefLabel": {
+      "de": "Mathe"
+    }
+  },
+  "inScheme": {
+    "id": "https://vocabulary.serlo.org/de/taxonomy/3",
+    "title": {
+      "de": "Taxonomie de.serlo.org"
+    }
+  },
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}
