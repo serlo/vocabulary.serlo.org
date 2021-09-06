@@ -1,0 +1,7046 @@
+BASE <https://vocabulary.serlo.org/de/taxonomy/>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+<29557> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Humangenetik - Genetik des Menschen"@de;
+  skos:broader <23399>.
+
+<1351> a skos:Concept;
+  skos:narrower <62414>,
+    <25775>;
+  skos:prefLabel "Zahlenmengen und Zahlengerade"@de;
+  skos:broader <23872>;
+  skos:inScheme <3>.
+
+<46892> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <26382>;
+  skos:prefLabel "Körper"@de.
+
+<24365> a skos:Concept;
+  skos:broader <1363>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Umrechnen von Geldeinheiten"@de.
+
+<155869> a skos:Concept;
+  skos:prefLabel "Aufgaben zu chemischen Reaktionen"@de;
+  skos:broader <25888>;
+  skos:inScheme <3>.
+
+<63313> a skos:Concept;
+  skos:broader <1448>;
+  skos:prefLabel "Aufgaben zu der Tangente"@de;
+  skos:inScheme <3>.
+
+<182016> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <123772>;
+  skos:prefLabel "Kosmetik"@de.
+
+<18915> a skos:Concept;
+  skos:broader <18901>;
+  skos:prefLabel "Gemische"@de;
+  skos:inScheme <3>.
+
+<214804> a skos:Concept;
+  skos:broader <202976>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum globalen Wandel"@de.
+
+<18885> a skos:Concept;
+  skos:prefLabel "Chemische Reaktionen"@de;
+  skos:inScheme <3>;
+  skos:narrower <19457>,
+    <25888>;
+  skos:broader <18230>.
+
+<133083> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <133082>;
+  skos:prefLabel "Aufgaben zu Mengenwörtern"@de.
+
+<26311> a skos:Concept;
+  skos:broader <1488>;
+  skos:prefLabel "Aufgaben zu quadratischen Gleichungen mit Parametern"@de;
+  skos:inScheme <3>.
+
+<132422> a skos:Concept;
+  skos:broader <128626>;
+  skos:narrower <132427>,
+    <132425>;
+  skos:prefLabel "Zukunft - Future"@de;
+  skos:inScheme <3>.
+
+<26262> a skos:Concept;
+  skos:broader <1431>;
+  skos:prefLabel "Aufgaben zu Exponential- und Logarithmusgleichungen"@de;
+  skos:inScheme <3>.
+
+<30684> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Aufstellung von Ebenengleichung"@de;
+  skos:broader <1465>;
+  skos:inScheme <3>.
+
+<72113> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1335>;
+  skos:prefLabel "Aufgaben zum graphischen Lösen von Gleichungssystemen"@de.
+
+<114024> a skos:Concept;
+  skos:broader <67193>;
+  skos:prefLabel "Hamilton-Formalismus"@de;
+  skos:inScheme <3>.
+
+<24689> a skos:Concept;
+  skos:prefLabel "Krümmungsverhalten und Wendepunkte"@de;
+  skos:inScheme <3>;
+  skos:broader <1373>.
+
+<24392> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Parallelogramm"@de;
+  skos:inScheme <3>;
+  skos:broader <24378>.
+
+<179545> a skos:Concept;
+  skos:narrower <157973>;
+  skos:broader <157968>;
+  skos:inScheme <3>;
+  skos:prefLabel "Verbformen i-Konjugation"@de.
+
+<45818> a skos:Concept;
+  skos:narrower <150094>,
+    <150095>;
+  skos:broader <45792>;
+  skos:inScheme <3>;
+  skos:prefLabel "Zentrische Streckung: Konstruktion"@de.
+
+<30690> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Schnittwinkel von Geraden und Ebenen"@de;
+  skos:inScheme <3>;
+  skos:broader <1461>.
+
+<24410> a skos:Concept;
+  skos:narrower <45795>,
+    <45792>;
+  skos:prefLabel "Spiegelung, zentrische Streckung und andere Abbildungen in der Ebene"@de;
+  skos:broader <1288>;
+  skos:inScheme <3>.
+
+<24677> a skos:Concept;
+  skos:prefLabel "Ableitung allgemein"@de;
+  skos:inScheme <3>;
+  skos:narrower <26407>;
+  skos:broader <1304>.
+
+<103257> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Bestimmen der Definitionsmenge einer Bruchgleichung"@de;
+  skos:broader <1403>.
+
+<169684> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Bundesverfassungsgericht"@de;
+  skos:inScheme <3>;
+  skos:broader <167514>.
+
+<76683> a skos:Concept;
+  skos:narrower <70053>,
+    <76866>,
+    <76684>,
+    <129469>;
+  skos:prefLabel "Werkzeuge und Methoden"@de;
+  skos:broader <47899>;
+  skos:inScheme <3>.
+
+<157968> a skos:Concept;
+  skos:narrower <179544>,
+    <157977>,
+    <179542>,
+    <179545>,
+    <179547>,
+    <179546>,
+    <219536>,
+    <179543>;
+  skos:broader <157967>;
+  skos:inScheme <3>;
+  skos:prefLabel "Verben"@de.
+
+<174159> a skos:Concept;
+  skos:broader <1377>;
+  skos:prefLabel "Mehrschrittige Anwendungsaufgaben zur Prozentrechnung"@de;
+  skos:inScheme <3>.
+
+<1379> a skos:Concept;
+  skos:narrower <40461>,
+    <25778>;
+  skos:broader <23875>;
+  skos:inScheme <3>;
+  skos:prefLabel "Primzahlen und Primfaktorzerlegung"@de.
+
+<1467> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Abstände"@de;
+  skos:broader <24407>;
+  skos:narrower <46046>.
+
+<24384> a skos:Concept;
+  skos:broader <1363>;
+  skos:prefLabel "Aufgaben zum Umrechnen von Flächeneinheiten"@de;
+  skos:inScheme <3>.
+
+<1470> a skos:Concept;
+  skos:broader <1459>;
+  skos:prefLabel "Spiegelung an einer Ebene"@de;
+  skos:inScheme <3>.
+
+<184721> a skos:Concept;
+  skos:prefLabel "Antiproportionale Funktionen"@de;
+  skos:inScheme <3>;
+  skos:broader <173138>.
+
+<24142> a skos:Concept;
+  skos:narrower <165192>,
+    <1340>,
+    <24358>;
+  skos:prefLabel "Sonstiges"@de;
+  skos:broader <1385>;
+  skos:inScheme <3>.
+
+<26304> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Textaufgaben zum Bruchrechnen"@de;
+  skos:broader <1322>.
+
+<58818> a skos:Concept;
+  skos:broader <24429>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Berechnung des Volumens zusammengesetzter Körper"@de.
+
+<25627> a skos:Concept;
+  skos:broader <22779>;
+  skos:prefLabel "Aufgaben zum Thema Laplace-Experiment"@de;
+  skos:inScheme <3>.
+
+<1329> a skos:Concept;
+  skos:narrower <23675>,
+    <23673>;
+  skos:prefLabel "Wurzeln"@de;
+  skos:inScheme <3>;
+  skos:broader <1328>.
+
+<132201> a skos:Concept;
+  skos:prefLabel "Gemischte Aufgaben zum Rechnen mit Brüchen"@de;
+  skos:broader <1296>;
+  skos:inScheme <3>.
+
+<222431> a skos:Concept;
+  skos:prefLabel "Aufgaben zu den Hauptstädten Europas"@de;
+  skos:broader <222430>;
+  skos:inScheme <3>.
+
+<1390> a skos:Concept;
+  skos:prefLabel "Terme und Gleichungen"@de;
+  skos:narrower <1328>,
+    <1371>,
+    <1445>,
+    <1331>,
+    <1335>;
+  skos:broader <5>;
+  skos:inScheme <3>.
+
+<25486> a skos:Concept;
+  skos:broader <23675>;
+  skos:prefLabel "Aufgaben zu beliebigen n-ten Wurzeln"@de;
+  skos:inScheme <3>.
+
+<26111> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Aggregatzustände"@de;
+  skos:inScheme <3>;
+  skos:broader <18902>.
+
+<27193> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <27191>;
+  skos:prefLabel "Aufgaben zu Fremdstoffen und Erkrankungen des Nervensystems"@de.
+
+<26398> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1444>;
+  skos:prefLabel "Aufgaben zur Berechnung des Scheitelpunktes"@de.
+
+<1481> a skos:Concept;
+  skos:broader <23876>;
+  skos:inScheme <3>;
+  skos:prefLabel "Durchschnitt"@de;
+  skos:narrower <26428>.
+
+<18903> 
+  skos:narrower <18909>,
+    <25388>.
+
+<86824> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <23402>;
+  skos:prefLabel "Evolutionsforschung"@de.
+
+<107560> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <107559>;
+  skos:prefLabel "Rückstellungen"@de.
+
+<103256> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Methode des Über-Kreuz-Multiplizierens"@de;
+  skos:inScheme <3>;
+  skos:broader <1403>.
+
+<184719> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <173136>;
+  skos:prefLabel "Streckung von Graphen"@de.
+
+<69501> a skos:Concept;
+  skos:prefLabel "Datenbanken und Datenbanksysteme"@de;
+  skos:inScheme <3>;
+  skos:broader <47899>;
+  skos:narrower <161399>,
+    <161400>,
+    <69859>.
+
+<1479> a skos:Concept;
+  skos:prefLabel "Mengenlehre"@de;
+  skos:narrower <25779>,
+    <30023>,
+    <30022>;
+  skos:inScheme <3>;
+  skos:broader <1440>.
+
+<223906> a skos:Concept;
+  skos:broader <48564>;
+  skos:prefLabel "Aufgaben zu den Grundkonzepten"@de;
+  skos:inScheme <3>.
+
+<30678> a skos:Concept;
+  skos:broader <1381>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Satzgruppe des Pythagoras "@de.
+
+<24373> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Sachaufgaben zum Thema Fläche"@de;
+  skos:broader <1363>.
+
+<131290> a skos:Concept;
+  skos:broader <107556>;
+  skos:inScheme <3>;
+  skos:prefLabel "Globalisierung"@de.
+
+<48498> a skos:Concept;
+  skos:broader <182145>;
+  skos:narrower <48564>,
+    <48566>,
+    <48563>,
+    <48565>;
+  skos:prefLabel "Programmieren"@de;
+  skos:inScheme <3>.
+
+<23380> a skos:Concept;
+  skos:narrower <23387>,
+    <23386>,
+    <23385>,
+    <23388>;
+  skos:prefLabel "Pflanzen"@de;
+  skos:inScheme <3>;
+  skos:broader <23376>.
+
+<67195> a skos:Concept;
+  skos:prefLabel "Quantenmechanik"@de;
+  skos:broader <67192>;
+  skos:inScheme <3>.
+
+<40693> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Rätselaufgaben zu besonderen ebenen Figuren"@de;
+  skos:broader <24396>.
+
+<1484> a skos:Concept;
+  skos:prefLabel "Quadratische Ergänzung"@de;
+  skos:inScheme <3>;
+  skos:narrower <26314>;
+  skos:broader <1331>.
+
+<25621> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1344>;
+  skos:prefLabel "Aufgaben zur Kombinatorik im typischen Sinn"@de.
+
+<17132> a skos:Concept;
+  skos:narrower <24670>,
+    <24672>,
+    <24669>;
+  skos:inScheme <3>;
+  skos:broader <1289>;
+  skos:prefLabel "Grenzwerte, Stetigkeit und Differenzierbarkeit"@de.
+
+<58496> a skos:Concept;
+  skos:broader <24662>;
+  skos:prefLabel "Anwendungsaufgaben mit gebrochen rationalen Funktionen"@de;
+  skos:inScheme <3>.
+
+<114724> a skos:Concept;
+  skos:prefLabel " Leiter und Isolatoren"@de;
+  skos:broader <114713>;
+  skos:inScheme <3>.
+
+<60730> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <62625>,
+    <65267>,
+    <60958>,
+    <118713>,
+    <24432>,
+    <62627>,
+    <63588>,
+    <24430>,
+    <60957>;
+  skos:prefLabel "Wichtige Grundkörper"@de;
+  skos:broader <1300>.
+
+<157976> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur konsonantischen Konjugation (i-Stämme)"@de;
+  skos:broader <179547>.
+
+<30081> a skos:Concept;
+  skos:broader <22854>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Normalverteilung"@de.
+
+<203352> a skos:Concept;
+  skos:narrower <205951>,
+    <212023>,
+    <212026>,
+    <205950>,
+    <212024>,
+    <205952>,
+    <212021>;
+  skos:prefLabel "Farben"@de;
+  skos:inScheme <3>;
+  skos:broader <18230>.
+
+<1346> a skos:Concept;
+  skos:narrower <24368>,
+    <24369>,
+    <66809>,
+    <24367>;
+  skos:inScheme <3>;
+  skos:broader <1385>;
+  skos:prefLabel "Proportionalität und Dreisatz"@de.
+
+<26399> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Bestimmung von Nullstellen bei quadratischen Funktionen"@de;
+  skos:broader <1482>;
+  skos:inScheme <3>.
+
+<23872> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <23871>;
+  skos:prefLabel "Zahlen"@de;
+  skos:narrower <1351>,
+    <1350>.
+
+<114023> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Lagrange-Formalismus"@de;
+  skos:broader <67193>.
+
+<150094> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur zentrischen Streckung durch Messen"@de;
+  skos:broader <45818>.
+
+<107196> a skos:Concept;
+  skos:broader <1490>;
+  skos:prefLabel "Gemischte Aufgaben zur Ableitung"@de;
+  skos:inScheme <3>.
+
+<1474> a skos:Concept;
+  skos:narrower <31293>;
+  skos:broader <24443>;
+  skos:inScheme <3>;
+  skos:prefLabel "Länge eines Vektors"@de.
+
+<46133> a skos:Concept;
+  skos:prefLabel "Grundbegriffe der Elektrizitätslehre"@de;
+  skos:broader <48617>;
+  skos:inScheme <3>.
+
+<129537> a skos:Concept;
+  skos:broader <129469>;
+  skos:prefLabel "Bevor es los geht"@de;
+  skos:inScheme <3>.
+
+<26325> a skos:Concept;
+  skos:prefLabel "Aufgaben zu quadratischen Ungleichungen"@de;
+  skos:broader <1445>;
+  skos:inScheme <3>.
+
+<1418> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Geraden"@de;
+  skos:broader <1413>;
+  skos:narrower <24573>,
+    <24571>.
+
+<44204> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <45985>;
+  skos:prefLabel "Aufgaben zur Drehung mit Matrizen"@de.
+
+<30687> a skos:Concept;
+  skos:broader <1471>;
+  skos:prefLabel "Aufgaben zur Lagebeziehung von Geraden und Ebenen"@de;
+  skos:inScheme <3>.
+
+<24492> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Ausklammern"@de;
+  skos:broader <1375>.
+
+<1444> a skos:Concept;
+  skos:narrower <26398>,
+    <155979>;
+  skos:inScheme <3>;
+  skos:broader <1348>;
+  skos:prefLabel "Scheitelpunkt"@de.
+
+<19461> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Oxidation und Reduktion"@de;
+  skos:narrower <19469>,
+    <19468>;
+  skos:broader <25888>.
+
+<118713> a skos:Concept;
+  skos:broader <60730>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Würfel"@de.
+
+<23369> a skos:Concept;
+  skos:narrower <23397>,
+    <23396>,
+    <64170>,
+    <23395>,
+    <23418>,
+    <23393>,
+    <39976>,
+    <23392>,
+    <23394>;
+  skos:prefLabel "Biologie des Menschen"@de;
+  skos:inScheme <3>;
+  skos:broader <23362>.
+
+<103121> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Zytogenetik"@de;
+  skos:broader <29555>;
+  skos:inScheme <3>.
+
+<63588> a skos:Concept;
+  skos:broader <60730>;
+  skos:prefLabel "Aufgaben zum Zylinder"@de;
+  skos:inScheme <3>.
+
+<23276> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <18888>;
+  skos:prefLabel "Lebensmittel"@de.
+
+<29558> a skos:Concept;
+  skos:prefLabel "Gentechnik - Methoden und Anwendung"@de;
+  skos:inScheme <3>;
+  skos:broader <23399>.
+
+<25979> a skos:Concept;
+  skos:topConceptOf <3>;
+  skos:prefLabel "Englisch"@de;
+  skos:narrower <26872>.
+
+<26903> a skos:Concept;
+  skos:broader <26883>;
+  skos:prefLabel "Main and subordinate clauses"@de;
+  skos:inScheme <3>.
+
+<184033> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <184060>,
+    <200789>,
+    <184035>;
+  skos:prefLabel "Experimentieren in der Chemie"@de;
+  skos:broader <18230>.
+
+<72471> a skos:Concept;
+  skos:broader <1335>;
+  skos:inScheme <3>;
+  skos:prefLabel "Anwendungsaufgaben zu Gleichungssystemen"@de.
+
+<186539> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Nachhaltig schenken und einpacken"@de;
+  skos:broader <123772>.
+
+<128638> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <128634>;
+  skos:prefLabel "Einfache Gegenwart  -  Simple Present"@de;
+  skos:narrower <128639>.
+
+<23411> a skos:Concept;
+  skos:prefLabel "Insekten"@de;
+  skos:inScheme <3>;
+  skos:broader <23391>.
+
+<23768> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Rechnen mit Logarithmen"@de;
+  skos:broader <1367>.
+
+<169680> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Bundestag"@de;
+  skos:broader <167510>.
+
+<38457> a skos:Concept;
+  skos:prefLabel "Aufgaben zu vermehrtem und vermindertem Grundwert"@de;
+  skos:inScheme <3>;
+  skos:broader <1377>.
+
+<155948> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Big Data – einfach erklärt"@de;
+  skos:narrower <213198>;
+  skos:broader <76682>.
+
+<169560> a skos:Concept;
+  skos:broader <157231>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Schalenbau der Erde "@de.
+
+<18884> a skos:Concept;
+  skos:prefLabel "Stoffe und Stoffeigenschaften"@de;
+  skos:broader <18230>;
+  skos:narrower <155706>,
+    <18902>;
+  skos:inScheme <3>.
+
+<114719> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <114706>;
+  skos:prefLabel "Wärmelehre"@de.
+
+<1289> a skos:Concept;
+  skos:broader <5>;
+  skos:narrower <17132>,
+    <1304>,
+    <20446>,
+    <1373>,
+    <1306>,
+    <1330>,
+    <1430>,
+    <1303>,
+    <1302>;
+  skos:prefLabel "Funktionen"@de;
+  skos:inScheme <3>.
+
+<30692> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1476>;
+  skos:prefLabel "Aufgaben zur Volumenberechnung "@de.
+
+<158383> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur graphischen Bestimmung von Schnittpunkten"@de;
+  skos:broader <1492>.
+
+<107559> 
+  skos:narrower <107560>.
+
+<135882> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1375>;
+  skos:prefLabel "Weitere Aufgaben zu Umformungen von Termen"@de.
+
+<169078> a skos:Concept;
+  skos:prefLabel "Die Atmosphäre"@de;
+  skos:broader <106090>;
+  skos:inScheme <3>;
+  skos:narrower <178187>.
+
+<167511> a skos:Concept;
+  skos:narrower <169681>;
+  skos:prefLabel "Bundesregierung"@de;
+  skos:broader <151815>;
+  skos:inScheme <3>.
+
+<1320> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <25631>;
+  skos:broader <22810>;
+  skos:prefLabel "Bernoulli-Kette und Binomialverteilung"@de.
+
+<203233> a skos:Concept;
+  skos:broader <18230>;
+  skos:prefLabel "Elektrochemie"@de;
+  skos:inScheme <3>.
+
+<47095> a skos:Concept;
+  skos:broader <26456>;
+  skos:prefLabel "Deutschland, Österreich, Schweiz"@de;
+  skos:inScheme <3>.
+
+<1416> a skos:Concept;
+  skos:prefLabel "Termbegriff und Belegung von Termvariablen"@de;
+  skos:narrower <26307>;
+  skos:broader <1485>;
+  skos:inScheme <3>.
+
+<1392> a skos:Concept;
+  skos:prefLabel "Bruchterme"@de;
+  skos:narrower <26315>;
+  skos:broader <1331>;
+  skos:inScheme <3>.
+
+<45985> a skos:Concept;
+  skos:narrower <44204>;
+  skos:inScheme <3>;
+  skos:prefLabel "Drehung"@de;
+  skos:broader <45795>.
+
+<18886> a skos:Concept;
+  skos:narrower <19470>;
+  skos:broader <18230>;
+  skos:inScheme <3>;
+  skos:prefLabel "Atombau"@de.
+
+<47088> a skos:Concept;
+  skos:prefLabel "HASA"@de;
+  skos:broader <26457>;
+  skos:inScheme <3>.
+
+<155721> a skos:Concept;
+  skos:broader <25888>;
+  skos:prefLabel "Gleichgewichtsreaktion"@de;
+  skos:inScheme <3>.
+
+<80261> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1393>;
+  skos:prefLabel "Sachaufgaben zu linearen Gleichungen"@de.
+
+<1440> a skos:Concept;
+  skos:prefLabel "Mengenlehre und Logik"@de;
+  skos:narrower <1479>,
+    <1441>;
+  skos:broader <1397>;
+  skos:inScheme <3>.
+
+<155755> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <23256>;
+  skos:prefLabel "Metallische Bindungen"@de.
+
+<48566> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <48498>;
+  skos:prefLabel "Software Systeme"@de.
+
+<45207> a skos:Concept;
+  skos:broader <1457>;
+  skos:prefLabel "Sammlung interessanter Aufgaben"@de;
+  skos:inScheme <3>.
+
+<1338> a skos:Concept;
+  skos:prefLabel "Kreise und Kreisteile"@de;
+  skos:narrower <62758>,
+    <30560>;
+  skos:inScheme <3>;
+  skos:broader <1394>.
+
+<1337> a skos:Concept;
+  skos:narrower <71703>,
+    <24378>,
+    <1372>,
+    <1359>;
+  skos:prefLabel "Viereck"@de;
+  skos:broader <1394>;
+  skos:inScheme <3>.
+
+<30562> a skos:Concept;
+  skos:broader <1380>;
+  skos:prefLabel "Aufgaben zur Konstruktion von geometrischen Objekten"@de;
+  skos:inScheme <3>.
+
+<1313> a skos:Concept;
+  skos:narrower <1362>,
+    <1410>,
+    <1399>,
+    <1314>,
+    <1315>;
+  skos:prefLabel "Grundbegriffe und Methoden"@de;
+  skos:broader <1290>;
+  skos:inScheme <3>.
+
+<29555> a skos:Concept;
+  skos:broader <23399>;
+  skos:inScheme <3>;
+  skos:narrower <103121>;
+  skos:prefLabel "Zytogenetik - Genetik der Zelle"@de.
+
+<1384> a skos:Concept;
+  skos:prefLabel "Ortslinien und Ortsbereiche"@de;
+  skos:narrower <25382>;
+  skos:broader <1454>;
+  skos:inScheme <3>.
+
+<26405> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Polynomfunktion"@de;
+  skos:broader <1309>;
+  skos:inScheme <3>.
+
+<1428> a skos:Concept;
+  skos:narrower <25628>;
+  skos:prefLabel "Bedingte Wahrscheinlichkeit"@de;
+  skos:broader <22842>;
+  skos:inScheme <3>.
+
+<132794> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <132427>;
+  skos:prefLabel "Aufgaben zum Going-to-Future"@de.
+
+<206893> a skos:Concept;
+  skos:broader <206894>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu JavaScript"@de.
+
+<1466> a skos:Concept;
+  skos:broader <1459>;
+  skos:inScheme <3>;
+  skos:prefLabel "Umwandlung der Ebenendarstellung"@de;
+  skos:narrower <30685>.
+
+<1374> a skos:Concept;
+  skos:narrower <24688>,
+    <24684>;
+  skos:broader <1373>;
+  skos:inScheme <3>;
+  skos:prefLabel "Grenzwerte und Asymptoten"@de.
+
+<105508> a skos:Concept;
+  skos:prefLabel "Aufgaben zu den Sinnen und Organen des Menschen"@de;
+  skos:broader <23418>;
+  skos:inScheme <3>.
+
+<155979> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1444>;
+  skos:prefLabel "Aufgaben zum Scheitelpunkt"@de.
+
+<24548> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Varianz und Standardabweichung"@de;
+  skos:inScheme <3>;
+  skos:broader <1439>.
+
+<43485> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Thema Abbildungen"@de;
+  skos:broader <43042>;
+  skos:inScheme <3>.
+
+<29556> a skos:Concept;
+  skos:prefLabel "Klassische Genetik - Gesetzmäßigkeiten der Vererbung"@de;
+  skos:broader <23399>;
+  skos:inScheme <3>.
+
+<65055> a skos:Concept;
+  skos:broader <76682>;
+  skos:prefLabel "Datenschutz"@de;
+  skos:inScheme <3>.
+
+<30557> a skos:Concept;
+  skos:prefLabel "Aufgaben zu römischen Zahlen"@de;
+  skos:inScheme <3>;
+  skos:broader <1340>.
+
+<176290> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Lage von Punkten in Bezug auf den Graph"@de;
+  skos:broader <174848>.
+
+<60957> a skos:Concept;
+  skos:prefLabel "Aufgaben zu den Grundkörpern"@de;
+  skos:broader <60730>;
+  skos:inScheme <3>.
+
+<1294> a skos:Concept;
+  skos:narrower <79412>,
+    <55138>,
+    <55140>;
+  skos:inScheme <3>;
+  skos:prefLabel "Multiplikation"@de;
+  skos:broader <1386>.
+
+<26406> a skos:Concept;
+  skos:broader <1407>;
+  skos:prefLabel "Aufgaben zur Betragsfunktion"@de;
+  skos:inScheme <3>.
+
+<26409> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1355>;
+  skos:prefLabel "Aufgaben zur Bestimmung von Definitionsmengen "@de.
+
+<157231> a skos:Concept;
+  skos:narrower <169560>;
+  skos:inScheme <3>;
+  skos:broader <106090>;
+  skos:prefLabel "Dynamik im Erdinneren"@de.
+
+<45651> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Fixpunkten und Fixgeraden"@de;
+  skos:inScheme <3>;
+  skos:broader <45800>.
+
+<114722> a skos:Concept;
+  skos:broader <114706>;
+  skos:inScheme <3>;
+  skos:prefLabel " Radioaktivität und Kernphysik"@de.
+
+<5> a skos:Concept;
+  skos:prefLabel "Mathe"@de;
+  skos:narrower <1288>,
+    <1390>,
+    <1289>,
+    <1290>,
+    <1385>,
+    <1397>;
+  skos:topConceptOf <3>.
+
+<212756> a skos:Concept;
+  skos:prefLabel "Algorithmen und ihre Bausteine"@de;
+  skos:inScheme <3>;
+  skos:broader <162150>.
+
+<129538> a skos:Concept;
+  skos:broader <129469>;
+  skos:inScheme <3>;
+  skos:prefLabel "Anfängerkurse"@de.
+
+<23767> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Potenzen mit ganzzahligen Exponenten"@de;
+  skos:broader <1420>.
+
+<40689> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Ordnen von Brüchen"@de;
+  skos:broader <24279>.
+
+<184725> a skos:Concept;
+  skos:broader <173140>;
+  skos:prefLabel "Linearform"@de;
+  skos:inScheme <3>.
+
+<103407> a skos:Concept;
+  skos:prefLabel "Textaufgaben zu Bruchgleichungen"@de;
+  skos:inScheme <3>;
+  skos:broader <1403>.
+
+<184720> a skos:Concept;
+  skos:prefLabel "Proportionale Funktionen"@de;
+  skos:broader <173138>;
+  skos:inScheme <3>.
+
+<65195> a skos:Concept;
+  skos:prefLabel "Lernen und Vergessen"@de;
+  skos:inScheme <3>;
+  skos:broader <23394>.
+
+<1471> a skos:Concept;
+  skos:broader <1460>;
+  skos:narrower <30687>;
+  skos:prefLabel "Lagebeziehung einer Geraden und einer Ebene"@de;
+  skos:inScheme <3>.
+
+<24504> a skos:Concept;
+  skos:broader <1324>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Diskussion von ln-Funktionen"@de.
+
+<23396> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Sexualität und Entwicklung"@de;
+  skos:broader <23369>.
+
+<103856> a skos:Concept;
+  skos:broader <1397>;
+  skos:inScheme <3>;
+  skos:prefLabel "SEO"@de.
+
+<32931> 
+  skos:narrower <47074>,
+    <47072>,
+    <47073>,
+    <47071>,
+    <47075>.
+
+<212026> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Spezielle Farbstoffe"@de;
+  skos:broader <203352>.
+
+<86829> a skos:Concept;
+  skos:broader <23401>;
+  skos:prefLabel "Angewandte Verhaltensbiologie"@de;
+  skos:inScheme <3>.
+
+<22810> a skos:Concept;
+  skos:broader <1290>;
+  skos:inScheme <3>;
+  skos:narrower <1320>,
+    <22854>;
+  skos:prefLabel "Wichtige Modelle und Verteilungen"@de.
+
+<187453> a skos:Concept;
+  skos:broader <24662>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu einfachen gebrochen-rationalen Funktionen"@de.
+
+<26404> a skos:Concept;
+  skos:broader <1450>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben zu trigonometrischen Funktionen"@de.
+
+<60027> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu parallelen und senkrechten Geraden"@de;
+  skos:broader <24233>.
+
+<139219> a skos:Concept;
+  skos:prefLabel "Teil A"@de;
+  skos:inScheme <3>;
+  skos:broader <105140>.
+
+<132647> a skos:Concept;
+  skos:prefLabel "Aufgaben A1 Kurs"@de;
+  skos:broader <131195>;
+  skos:inScheme <3>.
+
+<173236> a skos:Concept;
+  skos:prefLabel "Gewaltfreie Kommunikation"@de;
+  skos:inScheme <3>;
+  skos:broader <173235>.
+
+<76682> a skos:Concept;
+  skos:narrower <198771>,
+    <155948>,
+    <191577>,
+    <65055>,
+    <48499>;
+  skos:broader <47899>;
+  skos:prefLabel "Informatik, Mensch und Gesellschaft"@de;
+  skos:inScheme <3>.
+
+<31293> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Länge eines Vektors"@de;
+  skos:broader <1474>;
+  skos:inScheme <3>.
+
+<67965> a skos:Concept;
+  skos:broader <24389>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Flächenberechnung am Dreieck"@de.
+
+<107944> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Skalarprodukt -2D"@de;
+  skos:broader <46048>.
+
+<65814> a skos:Concept;
+  skos:broader <65813>;
+  skos:inScheme <3>;
+  skos:prefLabel "Hierarische Baumstrukturen"@de.
+
+<47071> a skos:Concept;
+  skos:prefLabel "auf allen Stufen unterrichten"@de;
+  skos:inScheme <3>;
+  skos:broader <32931>.
+
+<1340> a skos:Concept;
+  skos:prefLabel "Römische Zahlen"@de;
+  skos:broader <24142>;
+  skos:narrower <30557>;
+  skos:inScheme <3>.
+
+<26133> a skos:Concept;
+  skos:broader <23270>;
+  skos:inScheme <3>;
+  skos:prefLabel "Kunststoffe im Alltag"@de.
+
+<67193> a skos:Concept;
+  skos:narrower <114023>,
+    <114025>,
+    <114024>;
+  skos:broader <67192>;
+  skos:prefLabel "Theoretische Mechanik"@de;
+  skos:inScheme <3>.
+
+<1488> a skos:Concept;
+  skos:broader <1371>;
+  skos:prefLabel "Quadratische Gleichungen mit Parametern"@de;
+  skos:narrower <26311>;
+  skos:inScheme <3>.
+
+<162150> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <210211>,
+    <212756>;
+  skos:broader <47899>;
+  skos:prefLabel "Datenstrukturen und Algorithmen"@de.
+
+<23410> a skos:Concept;
+  skos:prefLabel "Weichtiere"@de;
+  skos:inScheme <3>;
+  skos:broader <23391>.
+
+<114025> a skos:Concept;
+  skos:broader <67193>;
+  skos:prefLabel "Hamilton-Jacobi-Theorie"@de;
+  skos:inScheme <3>.
+
+<223072> a skos:Concept;
+  skos:broader <222430>;
+  skos:prefLabel "Aufgaben zu den Hauptstädten aus Asien"@de;
+  skos:inScheme <3>.
+
+<47091> a skos:Concept;
+  skos:broader <26457>;
+  skos:prefLabel "DSH"@de;
+  skos:inScheme <3>.
+
+<1399> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <25616>,
+    <25618>;
+  skos:prefLabel "Baumdiagramm und Vierfeldertafel"@de;
+  skos:broader <1313>.
+
+<25117> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Zahlwörtern und zur Potenzschreibweise"@de;
+  skos:inScheme <3>;
+  skos:broader <1350>.
+
+<25628> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Thema bedingte Wahrscheinlichkeit"@de;
+  skos:broader <1428>;
+  skos:inScheme <3>.
+
+<129148> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <129147>;
+  skos:prefLabel "Aufgaben zur Einfachen Vergangenheit - Simple Past"@de.
+
+<68741> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Denk- und Beweisaufgaben zum Parallelogramm"@de;
+  skos:broader <24378>.
+
+<172264> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1327>;
+  skos:prefLabel "Aufgaben zum Aufstellen der Geradengleichung"@de.
+
+<24503> a skos:Concept;
+  skos:broader <1336>;
+  skos:inScheme <3>;
+  skos:narrower <83078>;
+  skos:prefLabel "Thaleskreis und Fasskreis"@de.
+
+<45792> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Konstruktion der Abbildungen"@de;
+  skos:narrower <20575>,
+    <45818>,
+    <83238>;
+  skos:broader <24410>.
+
+<1362> a skos:Concept;
+  skos:prefLabel "Fakultät"@de;
+  skos:broader <1313>;
+  skos:inScheme <3>;
+  skos:narrower <25619>.
+
+<1439> a skos:Concept;
+  skos:narrower <29920>,
+    <24547>,
+    <24548>,
+    <42307>;
+  skos:prefLabel "Zufallsgrößen"@de;
+  skos:inScheme <3>;
+  skos:broader <1290>.
+
+<43310> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Thema Beweise"@de;
+  skos:broader <43042>.
+
+<186075> a skos:Concept;
+  skos:prefLabel "Simulation von Zufallsexperimenten"@de;
+  skos:inScheme <3>;
+  skos:broader <1290>.
+
+<25506> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <183159>;
+  skos:broader <123487>;
+  skos:prefLabel "Permakultur"@de.
+
+<62757> a skos:Concept;
+  skos:broader <24429>;
+  skos:prefLabel "Aufgaben zum Volumen einer Kugel"@de;
+  skos:inScheme <3>.
+
+<182827> a skos:Concept;
+  skos:prefLabel "Faktoren weltweit"@de;
+  skos:inScheme <3>;
+  skos:narrower <182868>;
+  skos:broader <74950>.
+
+<1449> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <30679>;
+  skos:broader <1383>;
+  skos:prefLabel "Sinus, Kosinus und Tangens am Einheitskreis"@de.
+
+<179547> a skos:Concept;
+  skos:broader <157968>;
+  skos:narrower <157976>;
+  skos:inScheme <3>;
+  skos:prefLabel "Verbformen konsonantische Konjugation - i-Stämme"@de.
+
+<46894> a skos:Concept;
+  skos:prefLabel "Kleidung"@de;
+  skos:broader <26382>;
+  skos:inScheme <3>.
+
+<18887> a skos:Concept;
+  skos:narrower <155792>,
+    <155782>,
+    <155780>,
+    <128714>,
+    <23270>,
+    <155781>;
+  skos:prefLabel "Organische Chemie"@de;
+  skos:broader <18230>;
+  skos:inScheme <3>.
+
+<26305> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Rechnen mit Brüchen und Dezimalbrüchen"@de;
+  skos:broader <1322>;
+  skos:inScheme <3>.
+
+<97606> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1388>;
+  skos:prefLabel "Aufgaben zur Multiplikation mit ganzen Zahlen"@de.
+
+<26314> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1484>;
+  skos:prefLabel "Aufgaben zur quadratischen Ergänzung"@de.
+
+<84261> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Verständnis des Grenzwertbegriffs"@de;
+  skos:broader <24669>;
+  skos:inScheme <3>.
+
+<191577> a skos:Concept;
+  skos:broader <76682>;
+  skos:prefLabel "Wie funktioniert das Internet?"@de;
+  skos:inScheme <3>.
+
+<40487> a skos:Concept;
+  skos:broader <25715>;
+  skos:inScheme <3>;
+  skos:prefLabel "Satz"@de.
+
+<1324> a skos:Concept;
+  skos:narrower <24507>,
+    <24504>,
+    <79675>,
+    <58876>;
+  skos:prefLabel "Exponential- und Logarithmusfunktion"@de;
+  skos:broader <1303>;
+  skos:inScheme <3>.
+
+<113584> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Funktionen - Verkettung"@de;
+  skos:broader <69554>;
+  skos:inScheme <3>.
+
+<60958> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Prisma"@de;
+  skos:broader <60730>.
+
+<184727> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Bestimmung der Funktionsgleichung quadratischer Funktionen"@de;
+  skos:broader <173140>.
+
+<24497> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Streckenverhältnis"@de;
+  skos:broader <1454>.
+
+<17744> a skos:Concept;
+  skos:narrower <123487>,
+    <80267>,
+    <74950>,
+    <123772>,
+    <102789>;
+  skos:topConceptOf <3>;
+  skos:prefLabel "Nachhaltigkeit"@de.
+
+<24418> a skos:Concept;
+  skos:broader <1363>;
+  skos:inScheme <3>;
+  skos:prefLabel "Sachaufgaben zum Thema Geschwindigkeit"@de.
+
+<40471> a skos:Concept;
+  skos:prefLabel "Adverb"@de;
+  skos:broader <25715>;
+  skos:inScheme <3>.
+
+<198076> 
+  skos:narrower <198077>,
+    <198078>.
+
+<1381> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <30678>;
+  skos:broader <1288>;
+  skos:prefLabel "Satzgruppe des Pythagoras"@de.
+
+<155782> a skos:Concept;
+  skos:prefLabel "Aufgaben zur organischen Chemie"@de;
+  skos:inScheme <3>;
+  skos:broader <18887>.
+
+<111417> a skos:Concept;
+  skos:broader <1335>;
+  skos:prefLabel "Sonstige Aufgaben zum Thema lineare Gleichungssysteme"@de;
+  skos:inScheme <3>.
+
+<24378> a skos:Concept;
+  skos:prefLabel "Parallelogramm, Raute, Drachenviereck und Trapez"@de;
+  skos:broader <1337>;
+  skos:narrower <24392>,
+    <24394>,
+    <68741>,
+    <69314>;
+  skos:inScheme <3>.
+
+<70053> a skos:Concept;
+  skos:narrower <70208>,
+    <73183>;
+  skos:prefLabel "Robot Karol"@de;
+  skos:inScheme <3>;
+  skos:broader <76683>.
+
+<30559> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Rechtecken und Quadraten"@de;
+  skos:broader <1359>.
+
+<169768> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Vektorbegriff"@de;
+  skos:broader <24439>.
+
+<40472> a skos:Concept;
+  skos:broader <25715>;
+  skos:inScheme <3>;
+  skos:prefLabel "Präposition"@de.
+
+<36439> a skos:Concept;
+  skos:broader <23766>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Thema Winkelhalbierende"@de.
+
+<191871> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <83238>;
+  skos:prefLabel "Aufgaben zur Drehung"@de.
+
+<25634> a skos:Concept;
+  skos:prefLabel "Allgemeine Aufgaben zur Wahrscheinlichkeit"@de;
+  skos:inScheme <3>;
+  skos:broader <22779>.
+
+<23875> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1385>;
+  skos:narrower <1379>,
+    <1341>;
+  skos:prefLabel "Teiler und Primzahlen"@de.
+
+<23769> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Rechnen mit e und ln"@de;
+  skos:broader <1367>.
+
+<24654> a skos:Concept;
+  skos:broader <1302>;
+  skos:inScheme <3>;
+  skos:prefLabel "Sonstiges zur Funktion"@de.
+
+<167513> a skos:Concept;
+  skos:prefLabel "Bundespräsident"@de;
+  skos:narrower <169683>;
+  skos:broader <151815>;
+  skos:inScheme <3>.
+
+<48603> a skos:Concept;
+  skos:prefLabel "Wellenoptik"@de;
+  skos:broader <48599>;
+  skos:inScheme <3>.
+
+<86956> a skos:Concept;
+  skos:prefLabel "Sexualverhalten"@de;
+  skos:inScheme <3>;
+  skos:broader <86828>.
+
+<1459> a skos:Concept;
+  skos:broader <1413>;
+  skos:narrower <1466>,
+    <1470>,
+    <1465>;
+  skos:inScheme <3>;
+  skos:prefLabel "Ebenen"@de.
+
+<184717> a skos:Concept;
+  skos:prefLabel "Schnittstellen zweier Graphen"@de;
+  skos:inScheme <3>;
+  skos:broader <173136>.
+
+<24524> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Quotientenregel"@de;
+  skos:broader <1490>;
+  skos:inScheme <3>.
+
+<80267> a skos:Concept;
+  skos:prefLabel "Klima"@de;
+  skos:inScheme <3>;
+  skos:broader <17744>.
+
+<27177> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Das Neuron"@de;
+  skos:narrower <27178>;
+  skos:broader <23394>.
+
+<23412> a skos:Concept;
+  skos:prefLabel "Ringelwürmer"@de;
+  skos:broader <23391>;
+  skos:inScheme <3>.
+
+<106091> a skos:Concept;
+  skos:prefLabel "Ökozonen"@de;
+  skos:inScheme <3>;
+  skos:broader <198033>;
+  skos:narrower <106092>.
+
+<113415> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <69554>;
+  skos:prefLabel "Aufgaben zu Datentypen"@de.
+
+<48614> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Elementarteilchen"@de;
+  skos:broader <48598>.
+
+<179546> a skos:Concept;
+  skos:broader <157968>;
+  skos:narrower <157975>;
+  skos:inScheme <3>;
+  skos:prefLabel "Verbformen konsonantische Konjugation - Konsonantenstämme"@de.
+
+<1407> a skos:Concept;
+  skos:prefLabel "Betragsfunktionen und abschnittweise definierte Funktionen "@de;
+  skos:broader <1303>;
+  skos:inScheme <3>;
+  skos:narrower <26406>.
+
+<214094> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Stereochemie"@de;
+  skos:inScheme <3>;
+  skos:broader <155794>.
+
+<96035> a skos:Concept;
+  skos:broader <95818>;
+  skos:prefLabel "Aufgaben zum Testen"@de;
+  skos:inScheme <3>.
+
+<156666> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Anwendungsaufgaben zu sin, cos und tan"@de;
+  skos:broader <1451>.
+
+<24691> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <129164>;
+  skos:broader <1373>;
+  skos:prefLabel "Steckbriefaufgaben"@de.
+
+<169681> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Bundesregierung"@de;
+  skos:broader <167511>;
+  skos:inScheme <3>.
+
+<26308> a skos:Concept;
+  skos:prefLabel "Gemischte Aufgaben zum Bruchverständnis"@de;
+  skos:inScheme <3>;
+  skos:broader <24279>.
+
+<26203> a skos:Concept;
+  skos:broader <26201>;
+  skos:inScheme <3>;
+  skos:prefLabel "Experimentieren"@de.
+
+<24429> a skos:Concept;
+  skos:narrower <60929>,
+    <59402>,
+    <59401>,
+    <70951>,
+    <58818>,
+    <62757>,
+    <62630>,
+    <24433>,
+    <60585>,
+    <60578>,
+    <60746>;
+  skos:prefLabel "Volumenberechnung"@de;
+  skos:broader <1300>;
+  skos:inScheme <3>.
+
+<1477> a skos:Concept;
+  skos:prefLabel "Flächenberechnung in der analytischen Geometrie"@de;
+  skos:narrower <30691>,
+    <24707>;
+  skos:inScheme <3>;
+  skos:broader <1469>.
+
+<40626> a skos:Concept;
+  skos:broader <1375>;
+  skos:inScheme <3>;
+  skos:prefLabel "Schwierigere Aufgaben zum Faktorisieren"@de.
+
+<45983> a skos:Concept;
+  skos:prefLabel "Orthogonale Affinität"@de;
+  skos:inScheme <3>;
+  skos:narrower <43802>;
+  skos:broader <45795>.
+
+<155719> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Kettenreaktionen"@de;
+  skos:broader <25888>.
+
+<1476> a skos:Concept;
+  skos:broader <1469>;
+  skos:inScheme <3>;
+  skos:narrower <30692>;
+  skos:prefLabel "Volumenberechnung in der analytischen Geometrie"@de.
+
+<64507> a skos:Concept;
+  skos:prefLabel "Aufgabensammlung"@de;
+  skos:inScheme <3>;
+  skos:broader <64506>.
+
+<25114> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1360>;
+  skos:prefLabel "Aufgaben zur Stellenwerttafel"@de.
+
+<1309> a skos:Concept;
+  skos:prefLabel "Polynomfunktionen beliebigen Grades"@de;
+  skos:inScheme <3>;
+  skos:broader <1303>;
+  skos:narrower <26405>.
+
+<30022> a skos:Concept;
+  skos:broader <1479>;
+  skos:prefLabel "Aufgaben zum Venn-Diagramm"@de;
+  skos:inScheme <3>.
+
+<133993> a skos:Concept;
+  skos:broader <126986>;
+  skos:narrower <133994>;
+  skos:prefLabel "Pronomen"@de;
+  skos:inScheme <3>.
+
+<173235> a skos:Concept;
+  skos:prefLabel "Kommunikation"@de;
+  skos:inScheme <3>;
+  skos:broader <106081>;
+  skos:narrower <173236>.
+
+<26418> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Wachstums- und Zerfallsprozessen"@de;
+  skos:inScheme <3>;
+  skos:broader <1417>.
+
+<155706> a skos:Concept;
+  skos:broader <18884>;
+  skos:inScheme <3>;
+  skos:prefLabel "Stoffe"@de.
+
+<182868> a skos:Concept;
+  skos:prefLabel "Aufgabe virtuelles Wasser"@de;
+  skos:broader <182827>;
+  skos:inScheme <3>.
+
+<22779> a skos:Concept;
+  skos:narrower <105183>,
+    <25634>,
+    <63558>,
+    <25624>,
+    <25627>,
+    <25635>;
+  skos:broader <1290>;
+  skos:inScheme <3>;
+  skos:prefLabel "Relative Häufigkeit und Wahrscheinlichkeit"@de.
+
+<169682> a skos:Concept;
+  skos:broader <167512>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Bundeskanzler"@de.
+
+<206894> a skos:Concept;
+  skos:prefLabel "Objektorientierte Programmierung mit JavaScript"@de;
+  skos:broader <199823>;
+  skos:narrower <206893>;
+  skos:inScheme <3>.
+
+<167849> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Musik"@de;
+  skos:broader <106081>.
+
+<107945> a skos:Concept;
+  skos:broader <46048>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Skalarprodukt -3D"@de.
+
+<172256> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Zeichnen von Graphen linearer Funktionen"@de;
+  skos:broader <1327>.
+
+<1443> a skos:Concept;
+  skos:broader <1303>;
+  skos:prefLabel "Potenz- und Wurzelfunktionen"@de;
+  skos:inScheme <3>;
+  skos:narrower <26402>.
+
+<191650> 
+  skos:narrower <169558>,
+    <106090>,
+    <146582>.
+
+<213199> a skos:Concept;
+  skos:broader <218676>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Bewerbungen"@de.
+
+<48604> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <48599>;
+  skos:prefLabel "Welleneigenschaften"@de.
+
+<23416> a skos:Concept;
+  skos:prefLabel "Fische"@de;
+  skos:inScheme <3>;
+  skos:broader <23389>.
+
+<26402> a skos:Concept;
+  skos:broader <1443>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Potenz- und Wurzelfunktionen "@de.
+
+<1368> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <25726>,
+    <40447>,
+    <40418>,
+    <40404>;
+  skos:broader <1386>;
+  skos:prefLabel "Lösen von Sachaufgaben zu den Grundrechenarten"@de.
+
+<146445> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Vegetation des tropischen Regenwaldes"@de;
+  skos:inScheme <3>;
+  skos:broader <106092>.
+
+<23876> a skos:Concept;
+  skos:prefLabel "Quersumme, Durchschnitt und Betrag"@de;
+  skos:narrower <23877>,
+    <23878>,
+    <1481>;
+  skos:inScheme <3>;
+  skos:broader <1385>.
+
+<31686> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Stoffeigenschaften"@de;
+  skos:broader <18902>.
+
+<128626> a skos:Concept;
+  skos:narrower <132422>,
+    <134074>,
+    <128634>,
+    <129143>;
+  skos:inScheme <3>;
+  skos:broader <126986>;
+  skos:prefLabel "Zeitformen und Verbformen "@de.
+
+<24550> a skos:Concept;
+  skos:prefLabel "Aufgaben zum geometrischen Mittel"@de;
+  skos:broader <22834>;
+  skos:inScheme <3>.
+
+<143826> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <143551>;
+  skos:prefLabel "Aufgaben zur Kraft "@de.
+
+<212021> a skos:Concept;
+  skos:prefLabel "Grundlagen"@de;
+  skos:inScheme <3>;
+  skos:broader <203352>.
+
+<1326> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <26316>;
+  skos:broader <1331>;
+  skos:prefLabel "Polynomdivision und Linearfaktorzerlegung"@de.
+
+<160066> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Schnittpunkten von Parabeln mit Geraden oder Parabeln"@de;
+  skos:broader <160065>.
+
+<184730> a skos:Concept;
+  skos:prefLabel "Lösen allgemeiner quadratischer Gleichungen"@de;
+  skos:inScheme <3>;
+  skos:broader <173143>.
+
+<48619> a skos:Concept;
+  skos:prefLabel "Elektromagnetische Schwingungen"@de;
+  skos:inScheme <3>;
+  skos:broader <41148>.
+
+<218670> 
+  skos:narrower <178245>,
+    <181546>,
+    <184791>.
+
+<178187> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Atmosphäre"@de;
+  skos:broader <169078>.
+
+<36441> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Thema Höhe"@de;
+  skos:inScheme <3>;
+  skos:broader <23766>.
+
+<25388> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <18903>;
+  skos:prefLabel "Einfache Methoden"@de.
+
+<46906> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Reise"@de;
+  skos:broader <26382>.
+
+<26421> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <20813>;
+  skos:prefLabel "Anwendungsaufgaben der Differential- und Integralrechnung"@de.
+
+<129886> a skos:Concept;
+  skos:prefLabel "RFID und Bluetooth"@de;
+  skos:inScheme <3>;
+  skos:broader <129469>.
+
+<57028> a skos:Concept;
+  skos:prefLabel "Klassen und Objekte"@de;
+  skos:narrower <73599>,
+    <176647>;
+  skos:broader <199823>;
+  skos:inScheme <3>.
+
+<114714> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <114704>;
+  skos:prefLabel "Wärmelehre"@de.
+
+<1303> a skos:Concept;
+  skos:narrower <1309>,
+    <1324>,
+    <1443>,
+    <1407>,
+    <1327>,
+    <1450>,
+    <1348>,
+    <24662>;
+  skos:inScheme <3>;
+  skos:prefLabel "Wichtige Funktionstypen und ihre Eigenschaften"@de;
+  skos:broader <1289>.
+
+<43383> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Thema Mengen"@de;
+  skos:inScheme <3>;
+  skos:broader <43042>.
+
+<34157> 
+  skos:narrower <34158>.
+
+<1336> a skos:Concept;
+  skos:narrower <1382>,
+    <24370>,
+    <23766>,
+    <24503>,
+    <24389>;
+  skos:inScheme <3>;
+  skos:prefLabel "Dreieck"@de;
+  skos:broader <1394>.
+
+<1397> a skos:Concept;
+  skos:narrower <1356>,
+    <24713>,
+    <24716>,
+    <105140>,
+    <1457>,
+    <24714>,
+    <25107>,
+    <103856>,
+    <7>,
+    <27695>,
+    <24704>,
+    <1440>,
+    <74679>;
+  skos:inScheme <3>;
+  skos:broader <5>;
+  skos:prefLabel "Sonstiges"@de.
+
+<1461> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <30690>;
+  skos:prefLabel "Schnittwinkel von Geraden und Ebenen"@de;
+  skos:broader <24407>.
+
+<23243> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <18888>;
+  skos:prefLabel "Allgemeines"@de.
+
+<91321> a skos:Concept;
+  skos:broader <24672>;
+  skos:prefLabel "Aufgaben zum Differenzen- und Differentialquotient"@de;
+  skos:inScheme <3>.
+
+<40484> a skos:Concept;
+  skos:broader <40469>;
+  skos:prefLabel "Aufgaben zu Artikeln"@de;
+  skos:inScheme <3>.
+
+<52772> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Spring Academy 2016"@de;
+  skos:broader <25107>.
+
+<155745> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Stoffmenge und Mol"@de;
+  skos:broader <155743>.
+
+<86828> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Individuum und soziale Gruppen"@de;
+  skos:narrower <86955>,
+    <86956>;
+  skos:broader <23401>.
+
+<25635> a skos:Concept;
+  skos:prefLabel "Gemischte Aufgaben zur Wahrscheinlichkeit"@de;
+  skos:inScheme <3>;
+  skos:broader <22779>.
+
+<86965> a skos:Concept;
+  skos:prefLabel "Vollständig und überwiegend genetisch bedingte Verhaltensweisen"@de;
+  skos:broader <23401>;
+  skos:inScheme <3>.
+
+<129143> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <128626>;
+  skos:narrower <129147>,
+    <131666>;
+  skos:prefLabel "Vergangenheit - Past"@de.
+
+<36437> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Thema Seitenhalbierende"@de;
+  skos:broader <23766>;
+  skos:inScheme <3>.
+
+<187894> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Flächenberechnung zusammengesetzter Figuren"@de;
+  skos:broader <24396>;
+  skos:inScheme <3>.
+
+<24414> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Zentrische Streckung: Abbildungsgleichung"@de;
+  skos:narrower <44521>;
+  skos:broader <45795>.
+
+<57631> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <57628>;
+  skos:prefLabel "Verarbeitung von Informationen"@de.
+
+<135390> a skos:Concept;
+  skos:broader <18230>;
+  skos:inScheme <3>;
+  skos:prefLabel "Baustelle Chemie"@de.
+
+<159239> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Hinführung auf schwierige Extremwertprobleme"@de;
+  skos:broader <1427>.
+
+<155751> a skos:Concept;
+  skos:prefLabel "Aufgaben zu chemischen Bindungen"@de;
+  skos:inScheme <3>;
+  skos:broader <23256>.
+
+<174848> a skos:Concept;
+  skos:broader <1302>;
+  skos:narrower <174858>,
+    <176333>,
+    <114867>,
+    <26395>,
+    <181353>,
+    <176290>;
+  skos:prefLabel "Wichtige Grundbegriffe zu Funktionen"@de;
+  skos:inScheme <3>.
+
+<137726> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Plastikvermeidung und -recycling"@de;
+  skos:broader <102789>.
+
+<200614> a skos:Concept;
+  skos:broader <198077>;
+  skos:prefLabel "Adjektive & Adverbien"@de;
+  skos:inScheme <3>.
+
+<172928> a skos:Concept;
+  skos:prefLabel "Anwendungsaufgaben zu funktionalen Zusammenhängen"@de;
+  skos:broader <172927>;
+  skos:inScheme <3>.
+
+<138333> a skos:Concept;
+  skos:broader <67192>;
+  skos:inScheme <3>;
+  skos:prefLabel "Artikelplanung"@de.
+
+<26328> a skos:Concept;
+  skos:broader <1445>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Sachaufgaben zu Ungleichungen"@de.
+
+<160844> a skos:Concept;
+  skos:prefLabel "Orbitaltheorie"@de;
+  skos:broader <19470>;
+  skos:inScheme <3>.
+
+<146582> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Winde und die globale Zirkulation"@de;
+  skos:broader <191650>;
+  skos:narrower <187293>.
+
+<48598> a skos:Concept;
+  skos:prefLabel "Atom- und Kernphysik"@de;
+  skos:narrower <48615>,
+    <48616>,
+    <48614>;
+  skos:broader <41107>;
+  skos:inScheme <3>.
+
+<115931> a skos:Concept;
+  skos:broader <86825>;
+  skos:prefLabel "Evolutionsfaktoren"@de;
+  skos:inScheme <3>.
+
+<22768> a skos:Concept;
+  skos:prefLabel "Ergebnisse und Ereignisse"@de;
+  skos:broader <22774>;
+  skos:inScheme <3>.
+
+<157971> a skos:Concept;
+  skos:broader <179544>;
+  skos:prefLabel "Aufgaben zur e-Konjugation"@de;
+  skos:inScheme <3>.
+
+<25104> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <24359>;
+  skos:prefLabel "Aufgaben zum Lösen von Sachaufgaben mit x-Ansatz"@de.
+
+<45795> a skos:Concept;
+  skos:broader <24410>;
+  skos:prefLabel "Berechnung der Abbildungen mit Matrizen"@de;
+  skos:narrower <45983>,
+    <45981>,
+    <45800>,
+    <45985>,
+    <24414>,
+    <45984>;
+  skos:inScheme <3>.
+
+<26400> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1483>;
+  skos:prefLabel "Aufgaben zum Zeichnen und Vergleichen von Graphen "@de.
+
+<172927> a skos:Concept;
+  skos:prefLabel "Funktionale Zusammenhänge in Anwendungssituation"@de;
+  skos:narrower <172928>;
+  skos:inScheme <3>;
+  skos:broader <1302>.
+
+<26397> a skos:Concept;
+  skos:broader <1411>;
+  skos:prefLabel "Aufgaben zum Aufstellen von Funktionstermen"@de;
+  skos:inScheme <3>.
+
+<132427> a skos:Concept;
+  skos:prefLabel "Going-to-Future"@de;
+  skos:inScheme <3>;
+  skos:narrower <132794>;
+  skos:broader <132422>.
+
+<45625> a skos:Concept;
+  skos:broader <45800>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben zu Abbildungen in der Ebene"@de.
+
+<20813> a skos:Concept;
+  skos:broader <1430>;
+  skos:narrower <180218>,
+    <26421>;
+  skos:prefLabel "Weitere Anwendungszusammenhänge der Differential- und Integralrechnung"@de;
+  skos:inScheme <3>.
+
+<26412> a skos:Concept;
+  skos:broader <1458>;
+  skos:prefLabel "Aufgaben zum Monotonieverhalten"@de;
+  skos:inScheme <3>.
+
+<155781> a skos:Concept;
+  skos:narrower <155870>;
+  skos:broader <18887>;
+  skos:prefLabel "Aromatische Verbindungen"@de;
+  skos:inScheme <3>.
+
+<24363> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1363>;
+  skos:prefLabel "Sachaufgaben zum Thema Zeit"@de.
+
+<23874> a skos:Concept;
+  skos:prefLabel "Allgemeine Rechengesetze"@de;
+  skos:broader <23871>;
+  skos:narrower <60319>;
+  skos:inScheme <3>.
+
+<155720> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <25888>;
+  skos:prefLabel "Veresterung"@de.
+
+<46043> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Kreisen und Kugeln"@de;
+  skos:broader <1468>;
+  skos:inScheme <3>.
+
+<167510> a skos:Concept;
+  skos:broader <151815>;
+  skos:prefLabel "Bundestag"@de;
+  skos:inScheme <3>;
+  skos:narrower <169680>.
+
+<131661> a skos:Concept;
+  skos:narrower <133517>;
+  skos:broader <126986>;
+  skos:inScheme <3>;
+  skos:prefLabel "Nomen "@de.
+
+<212023> a skos:Concept;
+  skos:prefLabel "Anwendungen"@de;
+  skos:inScheme <3>;
+  skos:broader <203352>.
+
+<23415> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Vögel"@de;
+  skos:broader <23389>.
+
+<105183> a skos:Concept;
+  skos:prefLabel "Aufgaben zu zusammengesetzten Zufallsexperimenten"@de;
+  skos:inScheme <3>;
+  skos:broader <22779>.
+
+<114713> a skos:Concept;
+  skos:narrower <114729>,
+    <114728>,
+    <114725>,
+    <114727>,
+    <114730>,
+    <114726>,
+    <114724>;
+  skos:broader <114704>;
+  skos:prefLabel " Elektrizitätslehre "@de;
+  skos:inScheme <3>.
+
+<82914> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <79159>;
+  skos:narrower <108564>;
+  skos:prefLabel "Politisches System in Deutschland"@de.
+
+<24374> a skos:Concept;
+  skos:broader <1363>;
+  skos:prefLabel "Sachaufgaben zum Thema Volumen"@de;
+  skos:inScheme <3>.
+
+<1382> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1336>;
+  skos:narrower <167486>;
+  skos:prefLabel " Kongruente und ähnliche Dreiecke"@de.
+
+<26887> a skos:Concept;
+  skos:prefLabel "Auxiliary verbs"@de;
+  skos:broader <26872>;
+  skos:inScheme <3>.
+
+<172260> a skos:Concept;
+  skos:broader <1327>;
+  skos:inScheme <3>;
+  skos:prefLabel "Weitere Aufgaben zu linearen Funktionen"@de.
+
+<26428> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Berechnung des Durchschnitts"@de;
+  skos:inScheme <3>;
+  skos:broader <1481>.
+
+<30682> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Vektorprodukt"@de;
+  skos:broader <1436>.
+
+<24386> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1363>;
+  skos:prefLabel "Aufgaben zum Umrechnen von Volumeneinheiten"@de.
+
+<223395> a skos:Concept;
+  skos:broader <222430>;
+  skos:prefLabel "Aufgaben zu den Hauptstädten Südamerikas"@de;
+  skos:inScheme <3>.
+
+<155753> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Ionische Bindungen"@de;
+  skos:broader <23256>.
+
+<1314> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <25614>;
+  skos:prefLabel "Ergebnisräume"@de;
+  skos:broader <1313>.
+
+<155792> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Kohlehydrate"@de;
+  skos:broader <18887>.
+
+<24432> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Kugel"@de;
+  skos:broader <60730>.
+
+<24424> a skos:Concept;
+  skos:narrower <78053>;
+  skos:prefLabel "Sinussatz und Kosinussatz"@de;
+  skos:broader <1383>;
+  skos:inScheme <3>.
+
+<25630> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Thema Unabhängigkeit von Ereignissen"@de;
+  skos:broader <1319>;
+  skos:inScheme <3>.
+
+<151815> a skos:Concept;
+  skos:narrower <167511>,
+    <167515>,
+    <167512>,
+    <167510>,
+    <167513>,
+    <167514>;
+  skos:broader <209103>;
+  skos:prefLabel "Politik"@de;
+  skos:inScheme <3>.
+
+<1448> a skos:Concept;
+  skos:broader <1304>;
+  skos:prefLabel "Tangente und Normale "@de;
+  skos:narrower <63313>;
+  skos:inScheme <3>.
+
+<155743> a skos:Concept;
+  skos:narrower <155745>,
+    <155747>,
+    <157053>,
+    <155744>,
+    <155746>;
+  skos:prefLabel "Stoffmenge "@de;
+  skos:broader <18230>;
+  skos:inScheme <3>.
+
+<184718> a skos:Concept;
+  skos:broader <173136>;
+  skos:inScheme <3>;
+  skos:prefLabel "Verschiebung von Graphen"@de.
+
+<45183> a skos:Concept;
+  skos:broader <45800>;
+  skos:prefLabel "Aufgaben zur Matrix-Vektor-Multiplikation"@de;
+  skos:inScheme <3>.
+
+<114728> a skos:Concept;
+  skos:broader <114713>;
+  skos:prefLabel "Energie und Energie-Transportketten"@de;
+  skos:inScheme <3>.
+
+<24467> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Gaußverfahren"@de;
+  skos:inScheme <3>;
+  skos:broader <1335>.
+
+<1451> a skos:Concept;
+  skos:narrower <156666>,
+    <30680>,
+    <156667>;
+  skos:prefLabel "Sinus, Kosinus und Tangens im rechtwinkligen Dreieck"@de;
+  skos:broader <1383>;
+  skos:inScheme <3>.
+
+<23391> a skos:Concept;
+  skos:narrower <23412>,
+    <23410>,
+    <23409>,
+    <23411>,
+    <27466>;
+  skos:broader <23376>;
+  skos:inScheme <3>;
+  skos:prefLabel "Wirbellose Tiere"@de.
+
+<95818> a skos:Concept;
+  skos:broader <18230>;
+  skos:narrower <96035>;
+  skos:inScheme <3>;
+  skos:prefLabel "Testbereich Serlo-Chemie"@de.
+
+<209103> 
+  skos:narrower <199670>,
+    <134206>,
+    <173135>,
+    <151815>,
+    <131195>,
+    <203211>.
+
+<25103> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben zu Gleichungen"@de;
+  skos:broader <24359>.
+
+<26417> a skos:Concept;
+  skos:broader <1486>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Bestimmung von Ortskurven"@de.
+
+<69539> a skos:Concept;
+  skos:broader <24422>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Strahlensatz oder Vierstreckensatz"@de.
+
+<39976> a skos:Concept;
+  skos:prefLabel "Hormonsystem"@de;
+  skos:inScheme <3>;
+  skos:broader <23369>.
+
+<1413> a skos:Concept;
+  skos:broader <1288>;
+  skos:narrower <1460>,
+    <1468>,
+    <1418>,
+    <24407>,
+    <1459>,
+    <1469>,
+    <24443>,
+    <1463>,
+    <24442>;
+  skos:prefLabel "Analytische Geometrie"@de;
+  skos:inScheme <3>.
+
+<64618> a skos:Concept;
+  skos:broader <48600>;
+  skos:inScheme <3>;
+  skos:prefLabel "Mechanische Schwingungen"@de.
+
+<41317> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <48617>;
+  skos:prefLabel "Elektrostatik, ruhende Ladungen"@de.
+
+<26419> a skos:Concept;
+  skos:prefLabel "Weitere Aufgaben zu Extremwertproblemen"@de;
+  skos:broader <1427>;
+  skos:inScheme <3>.
+
+<23272> a skos:Concept;
+  skos:prefLabel "Luftverschmutzung"@de;
+  skos:inScheme <3>;
+  skos:broader <18888>.
+
+<25776> a skos:Concept;
+  skos:broader <24279>;
+  skos:prefLabel "Aufgaben zum Erweitern von Brüchen"@de;
+  skos:inScheme <3>.
+
+<30689> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Lage von Punkten"@de;
+  skos:broader <1473>.
+
+<184714> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <173136>;
+  skos:prefLabel "Definitions- und Wertebereich"@de.
+
+<41372> a skos:Concept;
+  skos:broader <1492>;
+  skos:prefLabel "Aufgaben zu Nullstellen und Achsenschnittpunkten"@de;
+  skos:inScheme <3>.
+
+<25778> a skos:Concept;
+  skos:broader <1379>;
+  skos:prefLabel "Aufgaben zur Primfaktorzerlegung"@de;
+  skos:inScheme <3>.
+
+<24716> a skos:Concept;
+  skos:prefLabel "Zum Nachschlagen "@de;
+  skos:inScheme <3>;
+  skos:broader <1397>.
+
+<161399> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <69501>;
+  skos:prefLabel "Aufgaben zu SQL"@de.
+
+<114706> 
+  skos:narrower <114717>,
+    <114718>,
+    <114720>,
+    <114722>,
+    <114721>,
+    <114723>,
+    <114719>.
+
+<26456> 
+  skos:narrower <47097>,
+    <47096>,
+    <47095>.
+
+<46889> a skos:Concept;
+  skos:broader <26382>;
+  skos:prefLabel "Sport"@de;
+  skos:inScheme <3>.
+
+<19458> a skos:Concept;
+  skos:prefLabel "Synthese und Analyse"@de;
+  skos:inScheme <3>;
+  skos:broader <25888>.
+
+<1441> a skos:Concept;
+  skos:prefLabel "Logik"@de;
+  skos:narrower <169812>;
+  skos:broader <1440>;
+  skos:inScheme <3>.
+
+<197348> a skos:Concept;
+  skos:broader <123487>;
+  skos:narrower <202663>,
+    <200160>;
+  skos:inScheme <3>;
+  skos:prefLabel "Insekten"@de.
+
+<1380> a skos:Concept;
+  skos:narrower <30562>,
+    <175427>,
+    <60346>;
+  skos:broader <1288>;
+  skos:inScheme <3>;
+  skos:prefLabel "Konstruktion von geometrischen Objekten"@de.
+
+<43042> 
+  skos:narrower <43453>,
+    <43324>,
+    <43445>,
+    <43485>,
+    <43376>,
+    <43383>,
+    <43291>,
+    <43487>,
+    <43310>,
+    <43425>,
+    <43444>,
+    <43045>.
+
+<23675> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Beliebige n-te Wurzeln"@de;
+  skos:narrower <25486>;
+  skos:broader <1329>.
+
+<3> a skos:ConceptScheme;
+  skos:hasTopConcept <79159>,
+    <18230>,
+    <41107>,
+    <47899>,
+    <25979>,
+    <17744>,
+    <5>,
+    <33894>,
+    <23362>;
+  dct:title "Taxonomie de.serlo.org"@de;
+  dct:creator "Serlo Education e.V."@de.
+
+<23873> a skos:Concept;
+  skos:broader <23871>;
+  skos:inScheme <3>;
+  skos:prefLabel "Rechentermbezeichnungen"@de.
+
+<1396> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Quadratische Gleichungen"@de;
+  skos:broader <1371>;
+  skos:narrower <26259>.
+
+<24422> a skos:Concept;
+  skos:prefLabel "Strahlensatz oder Vierstreckensatz, Ähnlichkeit"@de;
+  skos:narrower <69539>;
+  skos:inScheme <3>;
+  skos:broader <1288>.
+
+<184932> a skos:Concept;
+  skos:prefLabel "Zahlensysteme"@de;
+  skos:broader <162149>;
+  skos:inScheme <3>;
+  skos:narrower <184941>.
+
+<179544> a skos:Concept;
+  skos:narrower <157971>;
+  skos:broader <157968>;
+  skos:prefLabel "Verbformen e-Konjugation"@de;
+  skos:inScheme <3>.
+
+<23379> a skos:Concept;
+  skos:broader <23376>;
+  skos:inScheme <3>;
+  skos:prefLabel "Bakterien"@de.
+
+<164184> a skos:Concept;
+  skos:prefLabel "Atommodelle von Rutherford und Bohr"@de;
+  skos:inScheme <3>;
+  skos:broader <48615>.
+
+<40469> a skos:Concept;
+  skos:prefLabel "Artikel"@de;
+  skos:broader <25715>;
+  skos:inScheme <3>;
+  skos:narrower <40484>.
+
+<26316> a skos:Concept;
+  skos:broader <1326>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Polynomdivision"@de.
+
+<29920> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Zufallsgrößen und Verteilungsfunktion"@de;
+  skos:broader <1439>;
+  skos:inScheme <3>.
+
+<24407> a skos:Concept;
+  skos:narrower <1461>,
+    <1467>;
+  skos:inScheme <3>;
+  skos:prefLabel "Abstände und Winkel"@de;
+  skos:broader <1413>.
+
+<51937> a skos:Concept;
+  skos:prefLabel "Wissenschaftliche und technische An- und Verwendung"@de;
+  skos:inScheme <3>;
+  skos:broader <48260>.
+
+<135881> a skos:Concept;
+  skos:broader <1375>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Zusammenfassen von Summentermen"@de.
+
+<111516> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Rationalmachen von Nennern"@de;
+  skos:broader <23673>;
+  skos:inScheme <3>.
+
+<107556> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Politik"@de;
+  skos:narrower <131290>,
+    <131291>;
+  skos:broader <106081>.
+
+<41148> a skos:Concept;
+  skos:narrower <48618>,
+    <48619>,
+    <48617>;
+  skos:broader <41107>;
+  skos:prefLabel "Elektrizität und Magnetismus"@de;
+  skos:inScheme <3>.
+
+<42613> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Spiegelung im Gitternetz"@de;
+  skos:inScheme <3>;
+  skos:broader <20575>.
+
+<35087> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben zu Größen"@de;
+  skos:broader <1363>.
+
+<46905> a skos:Concept;
+  skos:broader <26382>;
+  skos:inScheme <3>;
+  skos:prefLabel "Arbeit"@de.
+
+<1323> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1306>;
+  skos:prefLabel "Integrale"@de;
+  skos:narrower <26099>.
+
+<100328> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Nullstellenform"@de;
+  skos:broader <1482>;
+  skos:inScheme <3>.
+
+<22792> a skos:Concept;
+  skos:narrower <25632>;
+  skos:inScheme <3>;
+  skos:broader <1290>;
+  skos:prefLabel "Hypothesentests"@de.
+
+<27178> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Neuron"@de;
+  skos:broader <27177>;
+  skos:inScheme <3>.
+
+<48615> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <164182>,
+    <164185>,
+    <164184>;
+  skos:prefLabel "Atommodelle"@de;
+  skos:broader <48598>.
+
+<22854> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <22810>;
+  skos:prefLabel "Normalverteilung"@de;
+  skos:narrower <30081>.
+
+<25622> a skos:Concept;
+  skos:broader <1344>;
+  skos:prefLabel "Sonstige Kombinations- und Kombinatorikaufgaben"@de;
+  skos:inScheme <3>.
+
+<51938> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <48260>;
+  skos:prefLabel "Quantenphysikalisches Kernmodel"@de.
+
+<24439> a skos:Concept;
+  skos:narrower <31860>,
+    <169768>;
+  skos:prefLabel "Vektorbegriff"@de;
+  skos:broader <24442>;
+  skos:inScheme <3>.
+
+<70106> a skos:Concept;
+  skos:prefLabel "Aufgaben zur fortgeschrittenen Programmierung in Java"@de;
+  skos:broader <48565>;
+  skos:inScheme <3>.
+
+<24375> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1394>;
+  skos:prefLabel "Beliebige n-Ecke"@de.
+
+<33895> a skos:Concept;
+  skos:prefLabel "Latein-Grammatik"@de;
+  skos:inScheme <3>;
+  skos:broader <33894>.
+
+<113583> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Funktionen - Allgemein"@de;
+  skos:broader <69554>;
+  skos:inScheme <3>.
+
+<167512> a skos:Concept;
+  skos:broader <151815>;
+  skos:prefLabel "Bundeskanzler"@de;
+  skos:narrower <169682>;
+  skos:inScheme <3>.
+
+<159235> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Komplexere Anwendungsaufgaben mit Extremwertproblemen"@de;
+  skos:broader <1427>.
+
+<128716> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <128714>;
+  skos:prefLabel "Aufgaben zur Nomenklatur und homologen Reihe der Alkohole"@de.
+
+<1319> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Unabhängigkeit von Ereignissen"@de;
+  skos:narrower <25630>;
+  skos:broader <22842>.
+
+<40467> a skos:Concept;
+  skos:prefLabel "Verb"@de;
+  skos:broader <25715>;
+  skos:inScheme <3>.
+
+<173346> a skos:Concept;
+  skos:broader <1300>;
+  skos:prefLabel "Allgemeines und Grundbegriffe"@de;
+  skos:inScheme <3>.
+
+<24573> a skos:Concept;
+  skos:broader <1418>;
+  skos:inScheme <3>;
+  skos:prefLabel " Aufgaben zu Geradengleichungen im Raum"@de.
+
+<23275> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <18888>;
+  skos:prefLabel "Umweltgefahren durch Erdölprodukte"@de.
+
+<44521> a skos:Concept;
+  skos:broader <24414>;
+  skos:prefLabel "Aufgaben zur zentrischen Streckung"@de;
+  skos:inScheme <3>.
+
+<189475> a skos:Concept;
+  skos:prefLabel "Aufgabe saisonal einkaufen"@de;
+  skos:inScheme <3>;
+  skos:broader <182015>.
+
+<134206> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <209103>;
+  skos:prefLabel "Methodenkiste"@de.
+
+<86825> a skos:Concept;
+  skos:prefLabel "Mechanismen der Evolution"@de;
+  skos:narrower <115928>,
+    <115931>;
+  skos:inScheme <3>;
+  skos:broader <23402>.
+
+<22767> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <22774>;
+  skos:prefLabel "Begriffsklärung Stochastik"@de.
+
+<18909> a skos:Concept;
+  skos:prefLabel "Experimentelle Methoden"@de;
+  skos:inScheme <3>;
+  skos:broader <18903>.
+
+<133994> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu den Pronomen"@de;
+  skos:broader <133993>.
+
+<83078> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Fasskreisbogen und Satz des Thales"@de;
+  skos:broader <24503>;
+  skos:inScheme <3>.
+
+<114718> a skos:Concept;
+  skos:broader <114706>;
+  skos:prefLabel "Elektrizitätslehre"@de;
+  skos:inScheme <3>.
+
+<40468> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <25715>;
+  skos:prefLabel "Substantiv"@de.
+
+<1465> a skos:Concept;
+  skos:broader <1459>;
+  skos:inScheme <3>;
+  skos:prefLabel "Ebenengleichung aufstellen"@de;
+  skos:narrower <30684>.
+
+<23401> a skos:Concept;
+  skos:prefLabel "Verhaltensbiologie"@de;
+  skos:inScheme <3>;
+  skos:narrower <86965>,
+    <86828>,
+    <86829>,
+    <86827>;
+  skos:broader <23362>.
+
+<146481> a skos:Concept;
+  skos:prefLabel "Aufgaben zu RedOx-Reaktionen"@de;
+  skos:broader <19469>;
+  skos:inScheme <3>.
+
+<58495> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <24662>;
+  skos:prefLabel "Aufgaben zur Kurvendiskussion bei gebrochen rationalen Funktionen"@de.
+
+<24377> a skos:Concept;
+  skos:broader <1363>;
+  skos:prefLabel "Aufgaben zum Umrechnen von Masseneinheiten"@de;
+  skos:inScheme <3>.
+
+<25676> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Diagrammen"@de;
+  skos:inScheme <3>;
+  skos:broader <1352>.
+
+<164185> a skos:Concept;
+  skos:prefLabel "Orbitalmodell"@de;
+  skos:inScheme <3>;
+  skos:broader <48615>.
+
+<112723> 
+  skos:narrower <131191>.
+
+<62625> a skos:Concept;
+  skos:prefLabel "Schwierigere Aufgaben zu einzelnen Grundkörpern"@de;
+  skos:broader <60730>;
+  skos:inScheme <3>.
+
+<29554> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <108185>;
+  skos:broader <23399>;
+  skos:prefLabel "Molekulargenetik"@de.
+
+<106094> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <106093>;
+  skos:prefLabel "Essstörungen"@de.
+
+<40461> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Primzahlen"@de;
+  skos:broader <1379>.
+
+<1480> a skos:Concept;
+  skos:prefLabel "Übersicht zur Kurvendiskussion"@de;
+  skos:inScheme <3>;
+  skos:broader <1373>;
+  skos:narrower <26414>.
+
+<47066> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Artikel"@de;
+  skos:broader <32932>.
+
+<1307> a skos:Concept;
+  skos:prefLabel "Flächen- und Volumenberechnung mit Integralen"@de;
+  skos:inScheme <3>;
+  skos:narrower <26098>;
+  skos:broader <1306>.
+
+<1327> a skos:Concept;
+  skos:narrower <31912>,
+    <26396>,
+    <172258>,
+    <172256>,
+    <59991>,
+    <160385>,
+    <172264>,
+    <172260>,
+    <31911>;
+  skos:prefLabel "Lineare Funktionen - Geraden"@de;
+  skos:broader <1303>;
+  skos:inScheme <3>.
+
+<79675> a skos:Concept;
+  skos:prefLabel "Gemischte Aufgaben zur e- und ln-Funktion"@de;
+  skos:inScheme <3>;
+  skos:broader <1324>.
+
+<1296> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1389>;
+  skos:narrower <25770>,
+    <25769>,
+    <25799>,
+    <132201>;
+  skos:prefLabel "Rechnen mit Brüchen"@de.
+
+<1306> a skos:Concept;
+  skos:broader <1289>;
+  skos:inScheme <3>;
+  skos:narrower <1323>,
+    <1308>,
+    <21399>,
+    <1307>;
+  skos:prefLabel "Stammfunktion, Integral und Flächenberechnung"@de.
+
+<62627> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <60730>;
+  skos:prefLabel "Aufgaben zum Kegel"@de.
+
+<26315> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Umgang mit Bruchtermen"@de;
+  skos:inScheme <3>;
+  skos:broader <1392>.
+
+<102788> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <123772>;
+  skos:prefLabel "Textilien und Mode"@de.
+
+<131191> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben"@de;
+  skos:broader <112723>.
+
+<182822> a skos:Concept;
+  skos:prefLabel "Wissenswertes über Plastik"@de;
+  skos:broader <102789>;
+  skos:inScheme <3>.
+
+<114730> a skos:Concept;
+  skos:prefLabel "Reihenschaltung und Parallelschaltung"@de;
+  skos:broader <114713>;
+  skos:inScheme <3>.
+
+<34780> a skos:Concept;
+  skos:prefLabel "Übungsaufgaben zu Latein-Test"@de;
+  skos:inScheme <3>;
+  skos:broader <25107>.
+
+<48597> 
+  skos:narrower <48610>,
+    <48612>,
+    <48611>.
+
+<42057> a skos:Concept;
+  skos:prefLabel "Gemischte Aufgaben zum Kürzen, Erweitern und Ordnen von Brüchen"@de;
+  skos:inScheme <3>;
+  skos:broader <24279>.
+
+<25775> a skos:Concept;
+  skos:broader <1351>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Zahlenstrahl und Zahlengerade"@de.
+
+<114720> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <114706>;
+  skos:prefLabel "Mechanik"@de.
+
+<24468> a skos:Concept;
+  skos:prefLabel "Aufgaben mit zwei Unbekannten"@de;
+  skos:broader <1335>;
+  skos:inScheme <3>.
+
+<111041> a skos:Concept;
+  skos:prefLabel "Kinematik"@de;
+  skos:narrower <117325>;
+  skos:inScheme <3>;
+  skos:broader <48600>.
+
+<45981> a skos:Concept;
+  skos:broader <45795>;
+  skos:prefLabel "Parallelverschiebung"@de;
+  skos:inScheme <3>;
+  skos:narrower <44516>.
+
+<26429> a skos:Concept;
+  skos:prefLabel "Gemischte Aufgaben zum Umrechnen von Einheiten"@de;
+  skos:inScheme <3>;
+  skos:broader <1363>.
+
+<61391> a skos:Concept;
+  skos:broader <24672>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Steigung und Differenzierbarkeit anhand des Graphen"@de.
+
+<1373> a skos:Concept;
+  skos:broader <1289>;
+  skos:narrower <1355>,
+    <24691>,
+    <1458>,
+    <1325>,
+    <1374>,
+    <24689>,
+    <1480>,
+    <1438>,
+    <1343>;
+  skos:inScheme <3>;
+  skos:prefLabel "Kurvendiskussion"@de.
+
+<23665> a skos:Concept;
+  skos:prefLabel "Aufgaben zu den Potenzgesetzen"@de;
+  skos:broader <1420>;
+  skos:inScheme <3>.
+
+<24469> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Cramerschen Regel"@de;
+  skos:broader <1335>.
+
+<24672> a skos:Concept;
+  skos:narrower <91321>,
+    <61391>;
+  skos:broader <17132>;
+  skos:prefLabel "Differenzierbarkeit"@de;
+  skos:inScheme <3>.
+
+<25632> a skos:Concept;
+  skos:broader <22792>;
+  skos:prefLabel "Aufgaben zu Hypothesentests"@de;
+  skos:inScheme <3>.
+
+<40418> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1368>;
+  skos:prefLabel "Textaufgaben zum Rechnen mit natürlichen Zahlen"@de.
+
+<24496> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Zusammenfassen von Termen"@de;
+  skos:broader <1375>;
+  skos:inScheme <3>.
+
+<48260> a skos:Concept;
+  skos:narrower <51937>,
+    <51938>,
+    <51936>,
+    <48613>,
+    <48609>;
+  skos:prefLabel "Quantenphysik"@de;
+  skos:inScheme <3>;
+  skos:broader <41107>.
+
+<184729> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Lösen einfacher quadratischer Gleichungen"@de;
+  skos:broader <173143>.
+
+<162149> a skos:Concept;
+  skos:narrower <75406>,
+    <184932>;
+  skos:prefLabel "Theoretische Informatik"@de;
+  skos:broader <47899>;
+  skos:inScheme <3>.
+
+<132238> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Present Perfect"@de;
+  skos:inScheme <3>;
+  skos:broader <131666>.
+
+<1427> a skos:Concept;
+  skos:broader <1430>;
+  skos:prefLabel "Extremwertaufgaben"@de;
+  skos:narrower <159235>,
+    <159239>,
+    <26419>,
+    <159258>,
+    <159266>;
+  skos:inScheme <3>.
+
+<48564> a skos:Concept;
+  skos:prefLabel "Grundkonzepte"@de;
+  skos:inScheme <3>;
+  skos:narrower <223906>;
+  skos:broader <48498>.
+
+<202976> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <74950>;
+  skos:narrower <214804>,
+    <214803>;
+  skos:prefLabel "Grundlagen der Nachhaltigkeit"@de.
+
+<24370> a skos:Concept;
+  skos:prefLabel "Dreieck allgemein und besondere Dreiecke"@de;
+  skos:narrower <103047>;
+  skos:inScheme <3>;
+  skos:broader <1336>.
+
+<43445> a skos:Concept;
+  skos:broader <43042>;
+  skos:prefLabel "Aufgaben zum Thema Folgen"@de;
+  skos:inScheme <3>.
+
+<60346> a skos:Concept;
+  skos:broader <1380>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Mittelsenkrechte"@de.
+
+<24359> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <25103>,
+    <25104>;
+  skos:broader <1371>;
+  skos:prefLabel "Gleichungen allgemein"@de.
+
+<23409> a skos:Concept;
+  skos:broader <23391>;
+  skos:prefLabel "Hohltiere"@de;
+  skos:inScheme <3>.
+
+<199670> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <209103>;
+  skos:prefLabel "Aufgaben für die Startseite"@de.
+
+<41402> a skos:Concept;
+  skos:broader <25107>;
+  skos:inScheme <3>;
+  skos:prefLabel "Testaufgaben"@de.
+
+<47067> a skos:Concept;
+  skos:prefLabel "Übersetzungen"@de;
+  skos:broader <32932>;
+  skos:inScheme <3>.
+
+<167944> a skos:Concept;
+  skos:broader <114712>;
+  skos:prefLabel "Aufgaben zur Linsengleichung"@de;
+  skos:inScheme <3>.
+
+<184731> a skos:Concept;
+  skos:prefLabel "p-q-Formel"@de;
+  skos:broader <173143>;
+  skos:inScheme <3>.
+
+<222430> 
+  skos:narrower <223072>,
+    <223395>,
+    <222431>.
+
+<174189> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Berechnung von Prozentwert, Grundwert und Prozentsatz"@de;
+  skos:broader <1377>.
+
+<25618> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Vierfeldertafel"@de;
+  skos:inScheme <3>;
+  skos:broader <1399>.
+
+<25382> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1384>;
+  skos:prefLabel "Aufgaben zum Thema Ortslinien und Ortsbereiche"@de.
+
+<26327> a skos:Concept;
+  skos:prefLabel "Sachaufgaben zu linearen Ungleichungen"@de;
+  skos:broader <1445>;
+  skos:inScheme <3>.
+
+<210211> a skos:Concept;
+  skos:broader <162150>;
+  skos:narrower <210218>;
+  skos:prefLabel "Hierarchische und vernetzte Strukturen"@de;
+  skos:inScheme <3>.
+
+<48965> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Technische Informatik"@de;
+  skos:broader <75211>;
+  skos:narrower <49408>.
+
+<184724> a skos:Concept;
+  skos:broader <173140>;
+  skos:prefLabel "Scheitelform"@de;
+  skos:inScheme <3>.
+
+<23399> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <23362>;
+  skos:narrower <29555>,
+    <29554>,
+    <29556>,
+    <29557>,
+    <29558>;
+  skos:prefLabel "Genetik und Gentechnik"@de.
+
+<184713> a skos:Concept;
+  skos:broader <173136>;
+  skos:prefLabel "Zuordnung versus Funktion"@de;
+  skos:inScheme <3>.
+
+<1468> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1413>;
+  skos:narrower <46043>;
+  skos:prefLabel "Kreise und Kugeln"@de.
+
+<205950> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Grundlagen"@de;
+  skos:broader <203352>;
+  skos:inScheme <3>.
+
+<1469> a skos:Concept;
+  skos:broader <1413>;
+  skos:prefLabel "Flächen- und Volumenberechnung"@de;
+  skos:narrower <1476>,
+    <1477>;
+  skos:inScheme <3>.
+
+<40447> a skos:Concept;
+  skos:broader <1368>;
+  skos:prefLabel "Kombinations- und Rätselaufgaben mit natürlichen Zahlen"@de;
+  skos:inScheme <3>.
+
+<145400> a skos:Concept;
+  skos:broader <1450>;
+  skos:prefLabel "Aufgaben zur Entstehung der allgemeinen Sinusfunktion"@de;
+  skos:inScheme <3>.
+
+<114721> a skos:Concept;
+  skos:broader <114706>;
+  skos:inScheme <3>;
+  skos:prefLabel "  Magnetismus und Elektromagnetismus "@de.
+
+<184728> a skos:Concept;
+  skos:prefLabel "Quadratische Gleichung (Definition)"@de;
+  skos:inScheme <3>;
+  skos:broader <173143>.
+
+<47096> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <26456>;
+  skos:prefLabel "Kleine Texte"@de.
+
+<157973> a skos:Concept;
+  skos:prefLabel "Aufgaben zur i-Konjugation"@de;
+  skos:inScheme <3>;
+  skos:broader <179545>.
+
+<40481> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Adjektiven"@de;
+  skos:broader <40470>.
+
+<46045> a skos:Concept;
+  skos:broader <1463>;
+  skos:prefLabel "Gemischte Aufgaben"@de;
+  skos:inScheme <3>.
+
+<176333> a skos:Concept;
+  skos:broader <174848>;
+  skos:prefLabel "Aufgaben zur Wertetabelle"@de;
+  skos:inScheme <3>.
+
+<22837> a skos:Concept;
+  skos:prefLabel "Kombinatorik"@de;
+  skos:inScheme <3>;
+  skos:broader <22774>.
+
+<24702> a skos:Concept;
+  skos:broader <1325>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Linearfaktorzerlegung"@de.
+
+<1325> a skos:Concept;
+  skos:broader <1373>;
+  skos:prefLabel "Nullstellen"@de;
+  skos:narrower <26410>,
+    <24702>,
+    <122106>,
+    <51466>;
+  skos:inScheme <3>.
+
+<24714> a skos:Concept;
+  skos:prefLabel "Weiterführendes"@de;
+  skos:inScheme <3>;
+  skos:broader <1397>.
+
+<155738> a skos:Concept;
+  skos:narrower <155740>;
+  skos:broader <18230>;
+  skos:inScheme <3>;
+  skos:prefLabel "Chemische Zeichensprache"@de.
+
+<157053> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Mol"@de;
+  skos:broader <155743>;
+  skos:inScheme <3>.
+
+<114716> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <114704>;
+  skos:prefLabel " Weiteres Thema "@de.
+
+<157967> a skos:Concept;
+  skos:prefLabel "Formenlehre"@de;
+  skos:narrower <157968>;
+  skos:broader <106085>;
+  skos:inScheme <3>.
+
+<23389> a skos:Concept;
+  skos:narrower <23417>,
+    <23415>,
+    <23416>,
+    <23414>,
+    <23413>;
+  skos:broader <23376>;
+  skos:inScheme <3>;
+  skos:prefLabel "Wirbeltiere"@de.
+
+<46902> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Familie"@de;
+  skos:broader <26382>.
+
+<59281> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Bruchgleichungen, die auf lineare Gleichungen führen"@de;
+  skos:inScheme <3>;
+  skos:broader <1403>.
+
+<102789> a skos:Concept;
+  skos:prefLabel "Plastik"@de;
+  skos:narrower <182823>,
+    <137726>,
+    <182822>;
+  skos:inScheme <3>;
+  skos:broader <17744>.
+
+<128714> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <128716>,
+    <128715>;
+  skos:broader <18887>;
+  skos:prefLabel "Alkohole"@de.
+
+<117633> a skos:Concept;
+  skos:broader <67192>;
+  skos:prefLabel "Rechenmethoden"@de;
+  skos:inScheme <3>.
+
+<174193> a skos:Concept;
+  skos:broader <1377>;
+  skos:prefLabel "Aufgaben zu Rabatt, Skonto, Mehrwertsteuer u.a."@de;
+  skos:inScheme <3>.
+
+<1386> a skos:Concept;
+  skos:narrower <1368>,
+    <1295>,
+    <1292>,
+    <1294>,
+    <1388>,
+    <1293>,
+    <1387>;
+  skos:inScheme <3>;
+  skos:broader <1385>;
+  skos:prefLabel "Grundrechenarten"@de.
+
+<58039> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Darstellung von Informationen"@de;
+  skos:broader <57629>.
+
+<54054> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Verschieben und Strecken trigonometrischer Funktionen"@de;
+  skos:broader <1450>;
+  skos:inScheme <3>.
+
+<25111> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Addition und Subtraktion von Dezimalbrüchen"@de;
+  skos:broader <1360>.
+
+<1445> a skos:Concept;
+  skos:narrower <26254>,
+    <26327>,
+    <26326>,
+    <26329>,
+    <26328>,
+    <26306>,
+    <26325>;
+  skos:prefLabel "Ungleichungen"@de;
+  skos:inScheme <3>;
+  skos:broader <1390>.
+
+<182823> a skos:Concept;
+  skos:broader <102789>;
+  skos:inScheme <3>;
+  skos:prefLabel "Leben ohne Plastik?"@de.
+
+<200616> a skos:Concept;
+  skos:prefLabel "Satzbau"@de;
+  skos:inScheme <3>;
+  skos:broader <198077>.
+
+<67197> a skos:Concept;
+  skos:prefLabel "Thermodynamik und statistische Physik"@de;
+  skos:inScheme <3>;
+  skos:broader <67192>.
+
+<79412> a skos:Concept;
+  skos:broader <1294>;
+  skos:inScheme <3>;
+  skos:prefLabel "Sachaufgaben zur schriftlichen Multiplikation"@de.
+
+<173143> a skos:Concept;
+  skos:narrower <184731>,
+    <184730>,
+    <184729>,
+    <184732>,
+    <184728>;
+  skos:prefLabel "Quadratische Gleichungen"@de;
+  skos:inScheme <3>;
+  skos:broader <173135>.
+
+<24367> a skos:Concept;
+  skos:broader <1346>;
+  skos:prefLabel "Aufgaben zur direkten Proportionalität"@de;
+  skos:inScheme <3>.
+
+<185828> a skos:Concept;
+  skos:broader <182015>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgabe Frühstück"@de.
+
+<24704> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Mathematische Teilgebiete"@de;
+  skos:broader <1397>.
+
+<25620> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1410>;
+  skos:prefLabel "Aufgaben zu Binomialkoeffizienten"@de.
+
+<26329> a skos:Concept;
+  skos:broader <1445>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Ungleichungen höheren Grades"@de.
+
+<26395> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <174848>;
+  skos:prefLabel "Aufgaben zur Umkehrfunktion"@de.
+
+<48608> a skos:Concept;
+  skos:prefLabel "Schall"@de;
+  skos:inScheme <3>;
+  skos:broader <48599>.
+
+<146521> a skos:Concept;
+  skos:broader <48616>;
+  skos:inScheme <3>;
+  skos:prefLabel "Allgemeine Aufgaben zu Kernphysik"@de.
+
+<111995> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1411>;
+  skos:prefLabel "Aufgaben zum Einfluss der Parameter a, b  und c auf die Parabel"@de.
+
+<187293> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Winden und der globalen Zirkulation"@de;
+  skos:broader <146582>;
+  skos:inScheme <3>.
+
+<60035> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <24498>;
+  skos:prefLabel "Gemischte Aufgaben zur Symmetrie"@de.
+
+<48612> a skos:Concept;
+  skos:broader <48597>;
+  skos:prefLabel "Energieumwandlung"@de;
+  skos:inScheme <3>.
+
+<150454> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Teilermenge"@de;
+  skos:broader <1341>.
+
+<60026> a skos:Concept;
+  skos:broader <24233>;
+  skos:prefLabel "Aufgaben zum Bestimmen des Abstands eines Punktes zu einer Geraden"@de;
+  skos:inScheme <3>.
+
+<47086> a skos:Concept;
+  skos:broader <26335>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gespräch"@de.
+
+<28507> a skos:Concept;
+  skos:broader <1360>;
+  skos:prefLabel "Aufgaben zum Vergleich von Dezimalbrüchen"@de;
+  skos:inScheme <3>.
+
+<26884> a skos:Concept;
+  skos:prefLabel "Pronouns"@de;
+  skos:broader <26872>;
+  skos:inScheme <3>.
+
+<51466> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1325>;
+  skos:prefLabel "Aufgaben zur Nullstelle"@de.
+
+<32231> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1434>;
+  skos:prefLabel "Aufgaben zur linearen Unabhängigkeit"@de.
+
+<62148> a skos:Concept;
+  skos:broader <1388>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Addieren und Subtrahieren von ganzen Zahlen"@de.
+
+<18230> a skos:Concept;
+  skos:narrower <203233>,
+    <18886>,
+    <155709>,
+    <95818>,
+    <203352>,
+    <135390>,
+    <23256>,
+    <18885>,
+    <184033>,
+    <18887>,
+    <18884>,
+    <155743>,
+    <155738>;
+  skos:topConceptOf <3>;
+  skos:prefLabel "Chemie"@de.
+
+<59401> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Volumen eines Kegels"@de;
+  skos:inScheme <3>;
+  skos:broader <24429>.
+
+<46903> a skos:Concept;
+  skos:broader <26382>;
+  skos:prefLabel "Natur"@de;
+  skos:inScheme <3>.
+
+<73183> a skos:Concept;
+  skos:broader <70053>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Sequenzen und Methoden mit Robot Karol"@de.
+
+<24366> a skos:Concept;
+  skos:broader <1377>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Zinsrechnung"@de.
+
+<1290> a skos:Concept;
+  skos:narrower <22778>,
+    <192971>,
+    <186075>,
+    <22842>,
+    <1439>,
+    <22792>,
+    <1344>,
+    <22810>,
+    <22779>,
+    <1313>;
+  skos:broader <5>;
+  skos:inScheme <3>;
+  skos:prefLabel "Stochastik"@de.
+
+<65267> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Pyramide"@de;
+  skos:broader <60730>;
+  skos:inScheme <3>.
+
+<48895> a skos:Concept;
+  skos:prefLabel "Aufgaben mit drei Unbekannten"@de;
+  skos:inScheme <3>;
+  skos:broader <1335>.
+
+<210031> a skos:Concept;
+  skos:prefLabel "... im Sport"@de;
+  skos:broader <74950>;
+  skos:inScheme <3>.
+
+<174158> a skos:Concept;
+  skos:prefLabel "Sachaufgaben zur Prozentrechnung - Bereich Wirtschaft"@de;
+  skos:inScheme <3>;
+  skos:broader <1377>.
+
+<38456> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1377>;
+  skos:prefLabel "Aufgaben zu Grundwert, Prozentwert und Prozentsatz"@de.
+
+<86826> a skos:Concept;
+  skos:broader <23402>;
+  skos:inScheme <3>;
+  skos:prefLabel "Evolutionsprozesse"@de.
+
+<24522> a skos:Concept;
+  skos:prefLabel "Rotationskörper"@de;
+  skos:narrower <60441>;
+  skos:broader <1300>;
+  skos:inScheme <3>.
+
+<106090> a skos:Concept;
+  skos:broader <191650>;
+  skos:inScheme <3>;
+  skos:prefLabel "Der Aufbau der Erde"@de;
+  skos:narrower <157231>,
+    <198033>,
+    <169078>.
+
+<53910> a skos:Concept;
+  skos:prefLabel "Schulaufgabe"@de;
+  skos:broader <1450>;
+  skos:inScheme <3>.
+
+<47089> a skos:Concept;
+  skos:broader <26457>;
+  skos:prefLabel "GERS"@de;
+  skos:inScheme <3>.
+
+<53893> a skos:Concept;
+  skos:prefLabel "Aufgaben mit Zahlenrätseln"@de;
+  skos:broader <1393>;
+  skos:inScheme <3>.
+
+<77626> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Prozesse"@de;
+  skos:broader <64169>.
+
+<23381> a skos:Concept;
+  skos:broader <23376>;
+  skos:inScheme <3>;
+  skos:prefLabel "Pilze"@de.
+
+<83238> a skos:Concept;
+  skos:broader <45792>;
+  skos:prefLabel "Drehung"@de;
+  skos:narrower <191871>;
+  skos:inScheme <3>.
+
+<192971> a skos:Concept;
+  skos:broader <1290>;
+  skos:inScheme <3>;
+  skos:prefLabel "Spieltheorie"@de.
+
+<24433> a skos:Concept;
+  skos:broader <24429>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben zu Volumenberechnung"@de.
+
+<165192> a skos:Concept;
+  skos:broader <24142>;
+  skos:prefLabel "Schätzen"@de;
+  skos:inScheme <3>.
+
+<25118> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Rechnen mit Überschlag"@de;
+  skos:broader <1350>.
+
+<24435> a skos:Concept;
+  skos:narrower <63538>;
+  skos:prefLabel "Schrägbilder und Körpernetze"@de;
+  skos:inScheme <3>;
+  skos:broader <1300>.
+
+<64506> a skos:Concept;
+  skos:narrower <64507>;
+  skos:broader <64170>;
+  skos:inScheme <3>;
+  skos:prefLabel "Infektionskrankheiten"@de.
+
+<31911> a skos:Concept;
+  skos:broader <1327>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu linearen Funktionen als Geraden im Koordinatensystem"@de.
+
+<129066> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Schnittpunkte berechnen"@de;
+  skos:broader <1492>;
+  skos:inScheme <3>.
+
+<1350> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <25118>,
+    <42047>,
+    <25120>,
+    <40634>,
+    <25117>;
+  skos:broader <23872>;
+  skos:prefLabel "Große Zahlen"@de.
+
+<23878> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <23876>;
+  skos:prefLabel "Betrag"@de.
+
+<184035> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Sicherheit im Labor"@de;
+  skos:broader <184033>.
+
+<46916> a skos:Concept;
+  skos:prefLabel "Uhrzeit"@de;
+  skos:broader <26382>;
+  skos:inScheme <3>.
+
+<69554> a skos:Concept;
+  skos:broader <199822>;
+  skos:narrower <113415>,
+    <113585>,
+    <69704>,
+    <113583>,
+    <113584>;
+  skos:prefLabel "Tabellenkalkulation"@de;
+  skos:inScheme <3>.
+
+<1433> a skos:Concept;
+  skos:narrower <30694>,
+    <45659>,
+    <46615>;
+  skos:prefLabel "Additon, Subtraktion, skalare Multiplikation und Vektorketten"@de;
+  skos:broader <24442>;
+  skos:inScheme <3>.
+
+<1409> a skos:Concept;
+  skos:narrower <26416>;
+  skos:prefLabel "Funktionsscharen diskutieren"@de;
+  skos:broader <1330>;
+  skos:inScheme <3>.
+
+<60578> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Volumen, Masse und Dichte"@de;
+  skos:broader <24429>;
+  skos:inScheme <3>.
+
+<46904> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Freizeit"@de;
+  skos:broader <26382>.
+
+<194263> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Stetigkeit"@de;
+  skos:broader <24670>;
+  skos:inScheme <3>.
+
+<40398> a skos:Concept;
+  skos:prefLabel "Sachaufgaben mit ganzen Zahlen"@de;
+  skos:broader <1388>;
+  skos:inScheme <3>.
+
+<48599> 
+  skos:narrower <48608>,
+    <48603>,
+    <48602>,
+    <48605>,
+    <48604>.
+
+<146520> a skos:Concept;
+  skos:broader <48616>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Halbwertszeit"@de.
+
+<25481> a skos:Concept;
+  skos:broader <23673>;
+  skos:prefLabel "Aufgaben zu Quadratwurzeln"@de;
+  skos:inScheme <3>.
+
+<33894> a skos:Concept;
+  skos:narrower <33895>;
+  skos:topConceptOf <3>;
+  skos:prefLabel "Latein"@de.
+
+<1305> a skos:Concept;
+  skos:broader <1304>;
+  skos:narrower <26408>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben zum Ableiten von Funktionen"@de.
+
+<131195> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Deutsch als Zweitsprache"@de;
+  skos:narrower <131196>,
+    <132647>;
+  skos:broader <209103>.
+
+<55140> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Einmaleins"@de;
+  skos:broader <1294>.
+
+<19466> a skos:Concept;
+  skos:broader <25888>;
+  skos:prefLabel "Nachweisreaktionen"@de;
+  skos:inScheme <3>.
+
+<46048> a skos:Concept;
+  skos:narrower <107944>,
+    <107945>;
+  skos:prefLabel "Skalarprodukt"@de;
+  skos:broader <24443>;
+  skos:inScheme <3>.
+
+<1377> a skos:Concept;
+  skos:narrower <174193>,
+    <38454>,
+    <174192>,
+    <174191>,
+    <24366>,
+    <38457>,
+    <174158>,
+    <38458>,
+    <38456>,
+    <174159>,
+    <23869>,
+    <174230>,
+    <174189>;
+  skos:prefLabel "Prozent- und Zinsrechnung"@de;
+  skos:broader <1385>;
+  skos:inScheme <3>.
+
+<155740> a skos:Concept;
+  skos:broader <155738>;
+  skos:prefLabel "Aufgaben zu chemischer Zeichensprache"@de;
+  skos:inScheme <3>.
+
+<24707> a skos:Concept;
+  skos:broader <1477>;
+  skos:prefLabel "Aufgaben zur Berechnung von Determinanten"@de;
+  skos:inScheme <3>.
+
+<62548> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Quersumme"@de;
+  skos:inScheme <3>;
+  skos:broader <23877>.
+
+<26335> 
+  skos:narrower <47085>,
+    <26389>,
+    <47086>,
+    <26391>.
+
+<23662> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1420>;
+  skos:prefLabel "Aufgaben zu einfachen Potenzen"@de.
+
+<107557> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <197738>,
+    <126986>;
+  skos:broader <106081>;
+  skos:prefLabel "Englisch"@de.
+
+<26205> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <26201>;
+  skos:prefLabel "Recherche"@de.
+
+<24376> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Sachaufgaben zum Thema Masse"@de;
+  skos:broader <1363>.
+
+<67196> a skos:Concept;
+  skos:broader <67192>;
+  skos:inScheme <3>;
+  skos:prefLabel "Elektrodynamik"@de.
+
+<155744> a skos:Concept;
+  skos:broader <155743>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Stoffmenge"@de.
+
+<214803> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Nachhaltigkeit"@de;
+  skos:inScheme <3>;
+  skos:broader <202976>.
+
+<181546> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Gewinn und Verlust"@de;
+  skos:broader <218670>;
+  skos:inScheme <3>.
+
+<60929> a skos:Concept;
+  skos:broader <24429>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Volumen eines Prisma"@de.
+
+<86827> a skos:Concept;
+  skos:prefLabel "Erweiterte Verhaltensweisen durch Lerneinflüsse"@de;
+  skos:broader <23401>;
+  skos:inScheme <3>.
+
+<161400> a skos:Concept;
+  skos:prefLabel "Umfangreichere Aufgaben zu Datenbanken"@de;
+  skos:inScheme <3>;
+  skos:broader <69501>.
+
+<157975> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur konsonantischen Konjugation (Konsonantenstämme)"@de;
+  skos:broader <179546>.
+
+<64169> a skos:Concept;
+  skos:narrower <70946>,
+    <77625>,
+    <77626>;
+  skos:inScheme <3>;
+  skos:broader <23362>;
+  skos:prefLabel "Zellbiologie"@de.
+
+<43045> a skos:Concept;
+  skos:broader <43042>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Thema Potenzen und Polynome"@de.
+
+<1389> a skos:Concept;
+  skos:narrower <1296>,
+    <24279>,
+    <1360>,
+    <1322>,
+    <1299>;
+  skos:inScheme <3>;
+  skos:broader <1385>;
+  skos:prefLabel "Bruchrechnen und Dezimalzahlen"@de.
+
+<26403> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu gebrochen-rationalen Funktionen"@de;
+  skos:broader <24662>.
+
+<179543> a skos:Concept;
+  skos:narrower <157969>;
+  skos:inScheme <3>;
+  skos:broader <157968>;
+  skos:prefLabel "Verbformen a-Konjugation"@de.
+
+<38454> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1377>;
+  skos:prefLabel "Aufgaben zur Prozentdarstellung"@de.
+
+<25615> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Thema Ereignisse"@de;
+  skos:inScheme <3>;
+  skos:broader <1315>.
+
+<184060> a skos:Concept;
+  skos:broader <184033>;
+  skos:inScheme <3>;
+  skos:prefLabel "Experimente für Zuhause"@de.
+
+<26099> a skos:Concept;
+  skos:broader <1323>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Integralen"@de.
+
+<23273> a skos:Concept;
+  skos:prefLabel "Wasser"@de;
+  skos:inScheme <3>;
+  skos:broader <18888>.
+
+<1486> a skos:Concept;
+  skos:narrower <26417>;
+  skos:inScheme <3>;
+  skos:broader <1330>;
+  skos:prefLabel "Ortskurven "@de.
+
+<150095> a skos:Concept;
+  skos:broader <45818>;
+  skos:prefLabel "Aufgaben zur zentrischen Streckung mit Zirkel und Lineal"@de;
+  skos:inScheme <3>.
+
+<1355> a skos:Concept;
+  skos:narrower <26409>;
+  skos:inScheme <3>;
+  skos:prefLabel "Definitionsmenge"@de;
+  skos:broader <1373>.
+
+<23388> a skos:Concept;
+  skos:broader <23380>;
+  skos:inScheme <3>;
+  skos:prefLabel "Bedecktsamer"@de.
+
+<46901> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Wohnung"@de;
+  skos:broader <26382>.
+
+<23400> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <23362>;
+  skos:prefLabel "Ökologie"@de.
+
+<34158> a skos:Concept;
+  skos:prefLabel "Rumprobiere - Sandbox - Playground"@de;
+  skos:broader <34157>;
+  skos:inScheme <3>.
+
+<26415> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1308>;
+  skos:prefLabel "Aufgaben zur Bestimmung von Stammfunktionen "@de.
+
+<40470> a skos:Concept;
+  skos:prefLabel "Adjektiv"@de;
+  skos:inScheme <3>;
+  skos:broader <25715>;
+  skos:narrower <40481>.
+
+<23414> a skos:Concept;
+  skos:broader <23389>;
+  skos:inScheme <3>;
+  skos:prefLabel "Reptilien"@de.
+
+<64284> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Stromkreise mit ohmsche Widerstände "@de;
+  skos:broader <46626>.
+
+<65746> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Informationsnetze"@de;
+  skos:broader <65813>.
+
+<1295> a skos:Concept;
+  skos:narrower <25721>;
+  skos:inScheme <3>;
+  skos:prefLabel "Division"@de;
+  skos:broader <1386>.
+
+<176647> a skos:Concept;
+  skos:broader <57028>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Punktnotation"@de.
+
+<43802> a skos:Concept;
+  skos:prefLabel "Aufgaben zur orthogonalen Affinität"@de;
+  skos:inScheme <3>;
+  skos:broader <45983>.
+
+<25113> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Umwandeln von Brüchen und Dezimalbrüchen"@de;
+  skos:broader <1299>.
+
+<114727> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <114713>;
+  skos:prefLabel "Stromwirkungen"@de.
+
+<60746> a skos:Concept;
+  skos:prefLabel "Weitere Anwendungsaufgaben zum Volumen"@de;
+  skos:inScheme <3>;
+  skos:broader <24429>.
+
+<75406> a skos:Concept;
+  skos:broader <162149>;
+  skos:prefLabel "Formale Sprachen"@de;
+  skos:inScheme <3>.
+
+<158240> a skos:Concept;
+  skos:prefLabel "Das Periodensystem der Elemente"@de;
+  skos:inScheme <3>;
+  skos:broader <155709>.
+
+<39818> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <23394>;
+  skos:prefLabel "Reflexe"@de.
+
+<27182> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Elektrochemie des Neurons"@de;
+  skos:broader <27180>;
+  skos:inScheme <3>.
+
+<45638> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum dreidimensionalen Koordinatensystem"@de;
+  skos:broader <1432>.
+
+<25120> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Runden und Abschätzen natürlicher Zahlen"@de;
+  skos:inScheme <3>;
+  skos:broader <1350>.
+
+<30694> a skos:Concept;
+  skos:broader <1433>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Addition und Subtraktion von Vektoren"@de.
+
+<209228> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Wertpapieren"@de;
+  skos:broader <218676>.
+
+<155797> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <25888>;
+  skos:prefLabel "Dissoziationsreaktion"@de.
+
+<1482> a skos:Concept;
+  skos:prefLabel "Nullstellen einer quadratischen Funktion"@de;
+  skos:inScheme <3>;
+  skos:broader <1348>;
+  skos:narrower <26399>,
+    <100328>.
+
+<45800> a skos:Concept;
+  skos:narrower <45651>,
+    <45183>,
+    <45625>;
+  skos:inScheme <3>;
+  skos:prefLabel "Allgemeines"@de;
+  skos:broader <45795>.
+
+<40634> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Zehnerpotenzschreibweise"@de;
+  skos:inScheme <3>;
+  skos:broader <1350>.
+
+<132425> a skos:Concept;
+  skos:broader <132422>;
+  skos:narrower <132795>;
+  skos:inScheme <3>;
+  skos:prefLabel "Will-Future"@de.
+
+<207978> a skos:Concept;
+  skos:prefLabel "Wissenschaft der Lebensfreude"@de;
+  skos:inScheme <3>;
+  skos:broader <207967>.
+
+<169873> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Aufstellen von Termen aus Zahlen"@de;
+  skos:inScheme <3>;
+  skos:broader <1345>.
+
+<26411> a skos:Concept;
+  skos:broader <1343>;
+  skos:prefLabel "Aufgaben zur Symmetrie von Graphen "@de;
+  skos:inScheme <3>.
+
+<22765> 
+  skos:narrower <22774>.
+
+<198078> a skos:Concept;
+  skos:broader <198076>;
+  skos:inScheme <3>;
+  skos:prefLabel "Landeskunde"@de.
+
+<40686> a skos:Concept;
+  skos:broader <1322>;
+  skos:prefLabel "Aufgaben zum Rechnen mit Brüchen - ohne negative Zahlen"@de;
+  skos:inScheme <3>.
+
+<23871> a skos:Concept;
+  skos:narrower <23874>,
+    <23872>,
+    <23873>;
+  skos:broader <1385>;
+  skos:prefLabel "Zahlenmengen, Rechenausdrücke und allgemeine Rechengesetze"@de;
+  skos:inScheme <3>.
+
+<24498> a skos:Concept;
+  skos:prefLabel "Symmetrie"@de;
+  skos:narrower <60035>,
+    <60033>,
+    <60034>;
+  skos:inScheme <3>;
+  skos:broader <1454>.
+
+<47065> a skos:Concept;
+  skos:broader <32932>;
+  skos:inScheme <3>;
+  skos:prefLabel "Videos"@de.
+
+<43282> a skos:Concept;
+  skos:broader <48617>;
+  skos:inScheme <3>;
+  skos:prefLabel "Elektrodynamik"@de.
+
+<73599> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Objekten"@de;
+  skos:broader <57028>;
+  skos:inScheme <3>.
+
+<23413> a skos:Concept;
+  skos:broader <23389>;
+  skos:inScheme <3>;
+  skos:prefLabel "Amphibien"@de.
+
+<1434> a skos:Concept;
+  skos:narrower <32231>;
+  skos:inScheme <3>;
+  skos:prefLabel "Lineare Unabhängigkeit"@de;
+  skos:broader <24443>.
+
+<64170> a skos:Concept;
+  skos:prefLabel "Immunsystem und Krankheiten"@de;
+  skos:narrower <64506>;
+  skos:inScheme <3>;
+  skos:broader <23369>.
+
+<117474> a skos:Concept;
+  skos:broader <117438>;
+  skos:prefLabel "Aufgaben zum Lernen lernen"@de;
+  skos:inScheme <3>.
+
+<76866> a skos:Concept;
+  skos:narrower <77429>;
+  skos:broader <76683>;
+  skos:inScheme <3>;
+  skos:prefLabel "Open Roberta"@de.
+
+<1330> a skos:Concept;
+  skos:broader <1289>;
+  skos:prefLabel "Funktionsscharen"@de;
+  skos:narrower <1486>,
+    <1409>;
+  skos:inScheme <3>.
+
+<140213> a skos:Concept;
+  skos:prefLabel "Internet und MQTT"@de;
+  skos:inScheme <3>;
+  skos:broader <129469>.
+
+<26420> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Newtonschen Näherungsverfahren "@de;
+  skos:broader <1447>.
+
+<174230> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Promillerechnung"@de;
+  skos:broader <1377>;
+  skos:inScheme <3>.
+
+<23417> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Säugetiere"@de;
+  skos:broader <23389>.
+
+<26389> a skos:Concept;
+  skos:broader <26335>;
+  skos:prefLabel "Alphabet"@de;
+  skos:inScheme <3>.
+
+<27180> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Die Elektrochemie des Neurons"@de;
+  skos:broader <23394>;
+  skos:narrower <27182>.
+
+<48618> a skos:Concept;
+  skos:broader <41148>;
+  skos:inScheme <3>;
+  skos:prefLabel "Magnetismus"@de.
+
+<1300> a skos:Concept;
+  skos:narrower <24435>,
+    <60730>,
+    <24429>,
+    <24522>,
+    <173346>;
+  skos:prefLabel "Räumliche Figuren"@de;
+  skos:inScheme <3>;
+  skos:broader <1288>.
+
+<180218> a skos:Concept;
+  skos:broader <20813>;
+  skos:inScheme <3>;
+  skos:prefLabel "Schwierigere und weiterführende Aufgaben"@de.
+
+<24713> a skos:Concept;
+  skos:broader <1397>;
+  skos:prefLabel "Zahlensysteme"@de;
+  skos:inScheme <3>;
+  skos:narrower <96765>.
+
+<24518> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Tangenten und Sekanten am Kreis"@de;
+  skos:broader <1288>.
+
+<1411> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <111995>,
+    <26397>;
+  skos:broader <1348>;
+  skos:prefLabel "Funktionsterm einer quadratischen Funktion"@de.
+
+<23395> a skos:Concept;
+  skos:broader <23369>;
+  skos:prefLabel "Verdauung und Stoffwechsel"@de;
+  skos:inScheme <3>.
+
+<67192> a skos:Concept;
+  skos:narrower <67195>,
+    <67196>,
+    <117633>,
+    <138333>,
+    <67194>,
+    <67197>,
+    <67193>;
+  skos:broader <41107>;
+  skos:prefLabel "Theoretische Physik"@de;
+  skos:inScheme <3>.
+
+<23274> a skos:Concept;
+  skos:prefLabel "Kunststoff"@de;
+  skos:broader <18888>;
+  skos:inScheme <3>.
+
+<26394> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1415>;
+  skos:prefLabel "Aufgaben zu Funktionen und Relationen"@de.
+
+<79159> a skos:Concept;
+  skos:narrower <82914>,
+    <79160>;
+  skos:prefLabel "Politik"@de;
+  skos:topConceptOf <3>.
+
+<23394> a skos:Concept;
+  skos:broader <23369>;
+  skos:inScheme <3>;
+  skos:prefLabel "Nervensystem"@de;
+  skos:narrower <27180>,
+    <27191>,
+    <27186>,
+    <39818>,
+    <27177>,
+    <65195>.
+
+<114729> a skos:Concept;
+  skos:prefLabel " Elektrizität im Alltag und Sicherheit"@de;
+  skos:inScheme <3>;
+  skos:broader <114713>.
+
+<26261> a skos:Concept;
+  skos:broader <1406>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu trigonometrischen Gleichungen"@de.
+
+<199822> a skos:Concept;
+  skos:broader <47899>;
+  skos:prefLabel "Funktionale Programmierung und Modellierung"@de;
+  skos:inScheme <3>;
+  skos:narrower <69554>.
+
+<163282> a skos:Concept;
+  skos:prefLabel "Allgemeines zu Lebewesen"@de;
+  skos:broader <23376>;
+  skos:inScheme <3>.
+
+<131666> a skos:Concept;
+  skos:broader <129143>;
+  skos:inScheme <3>;
+  skos:prefLabel "Present Perfect"@de;
+  skos:narrower <132238>.
+
+<114867> a skos:Concept;
+  skos:broader <174848>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Verkettung von Funktionen"@de.
+
+<25724> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1388>;
+  skos:prefLabel "Gemischte Aufgaben zum Rechnen mit ganzen Zahlen"@de.
+
+<60585> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <24429>;
+  skos:prefLabel "Aufgaben zum Volumen eines Zylinders"@de.
+
+<30691> a skos:Concept;
+  skos:broader <1477>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Flächenberechnung"@de.
+
+<182014> a skos:Concept;
+  skos:prefLabel "Alltag"@de;
+  skos:inScheme <3>;
+  skos:broader <123772>.
+
+<42047> a skos:Concept;
+  skos:prefLabel "Aufgaben zu wissenschaftlicher Schreibweise und geltenden Ziffern"@de;
+  skos:broader <1350>;
+  skos:inScheme <3>.
+
+<114715> a skos:Concept;
+  skos:broader <114704>;
+  skos:inScheme <3>;
+  skos:prefLabel " Magnetismus und Elektromagnetismus"@de.
+
+<1372> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Allgemeines zum Viereck"@de;
+  skos:broader <1337>.
+
+<23877> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <23876>;
+  skos:narrower <62548>;
+  skos:prefLabel "Quersumme"@de.
+
+<30023> a skos:Concept;
+  skos:prefLabel "Gemischte Aufgaben zur Mengenlehre"@de;
+  skos:inScheme <3>;
+  skos:broader <1479>.
+
+<26885> a skos:Concept;
+  skos:prefLabel " Comparison"@de;
+  skos:inScheme <3>;
+  skos:broader <26872>.
+
+<25673> a skos:Concept;
+  skos:broader <1292>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Addition natürlicher Zahlen"@de.
+
+<1293> a skos:Concept;
+  skos:narrower <25674>;
+  skos:prefLabel "Subtraktion"@de;
+  skos:broader <1386>;
+  skos:inScheme <3>.
+
+<60441> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Rotationskörpern"@de;
+  skos:inScheme <3>;
+  skos:broader <24522>.
+
+<24279> a skos:Concept;
+  skos:narrower <40689>,
+    <42057>,
+    <83724>,
+    <25771>,
+    <25776>,
+    <26308>;
+  skos:prefLabel "Brüche"@de;
+  skos:inScheme <3>;
+  skos:broader <1389>.
+
+<1356> a skos:Concept;
+  skos:prefLabel "Knobelaufgaben"@de;
+  skos:inScheme <3>;
+  skos:broader <1397>.
+
+<60012> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Sachaufgaben zum Koordinatensystem"@de;
+  skos:broader <1358>.
+
+<132556> a skos:Concept;
+  skos:broader <182145>;
+  skos:prefLabel "Aufgaben"@de;
+  skos:inScheme <3>.
+
+<202663> a skos:Concept;
+  skos:broader <197348>;
+  skos:prefLabel "Biene, Wespe, usw."@de;
+  skos:inScheme <3>.
+
+<200789> a skos:Concept;
+  skos:prefLabel "Richtig Experimentieren"@de;
+  skos:broader <184033>;
+  skos:inScheme <3>.
+
+<200613> a skos:Concept;
+  skos:prefLabel "Substantive"@de;
+  skos:inScheme <3>;
+  skos:broader <198077>.
+
+<24523> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Produktregel"@de;
+  skos:broader <1490>;
+  skos:inScheme <3>.
+
+<48499> a skos:Concept;
+  skos:broader <76682>;
+  skos:narrower <48569>;
+  skos:prefLabel "Verschlüsselung"@de;
+  skos:inScheme <3>.
+
+<20446> a skos:Concept;
+  skos:narrower <64645>;
+  skos:prefLabel "Gemischtes, Überblick und Vertiefung"@de;
+  skos:inScheme <3>;
+  skos:broader <1289>.
+
+<160062> a skos:Concept;
+  skos:prefLabel "Anwendungsaufgaben zu quadratischen Funktionen"@de;
+  skos:broader <1412>;
+  skos:inScheme <3>.
+
+<25380> a skos:Concept;
+  skos:broader <1358>;
+  skos:prefLabel "Aufgaben zum Koordinatensystem"@de;
+  skos:inScheme <3>.
+
+<77625> a skos:Concept;
+  skos:broader <64169>;
+  skos:prefLabel "Organelle"@de;
+  skos:inScheme <3>.
+
+<45984> a skos:Concept;
+  skos:narrower <44126>;
+  skos:prefLabel "Spiegelung an einer Ursprungsgeraden"@de;
+  skos:inScheme <3>;
+  skos:broader <45795>.
+
+<32932> 
+  skos:narrower <47066>,
+    <47065>,
+    <47067>.
+
+<18914> a skos:Concept;
+  skos:broader <18901>;
+  skos:inScheme <3>;
+  skos:prefLabel "Reinstoffe"@de.
+
+<44126> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Spiegelung an einer Ursprungsgeraden"@de;
+  skos:broader <45984>.
+
+<25715> 
+  skos:narrower <40472>,
+    <40470>,
+    <40466>,
+    <40467>,
+    <40471>,
+    <40473>,
+    <40487>,
+    <40469>,
+    <40468>.
+
+<1333> a skos:Concept;
+  skos:broader <1331>;
+  skos:narrower <26312>;
+  skos:prefLabel "Binomische Formeln"@de;
+  skos:inScheme <3>.
+
+<1457> a skos:Concept;
+  skos:prefLabel "Interessantes"@de;
+  skos:broader <1397>;
+  skos:narrower <45207>;
+  skos:inScheme <3>.
+
+<43425> a skos:Concept;
+  skos:broader <43042>;
+  skos:prefLabel "Aufgaben zum Thema Ordnungsrelationen"@de;
+  skos:inScheme <3>.
+
+<18901> 
+  skos:narrower <18915>,
+    <18914>.
+
+<157969> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <179543>;
+  skos:prefLabel "Aufgaben zur a-Konjugation"@de.
+
+<26430> a skos:Concept;
+  skos:prefLabel "Gemischte Sachaufgaben zu Größen und Einheiten"@de;
+  skos:inScheme <3>;
+  skos:broader <1363>.
+
+<25769> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Addition und Subtraktion von Brüchen"@de;
+  skos:broader <1296>;
+  skos:inScheme <3>.
+
+<24390> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Flächenberechnung von Dreiecken im Koordinatensystem"@de;
+  skos:broader <24389>;
+  skos:inScheme <3>.
+
+<26201> a skos:Concept;
+  skos:broader <23362>;
+  skos:inScheme <3>;
+  skos:prefLabel "Kompetenzen in der Biologie"@de;
+  skos:narrower <26202>,
+    <26204>,
+    <71166>,
+    <26203>,
+    <26205>.
+
+<114726> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel " Schaltsymbole, Schaltskizzen, Stromkreise"@de;
+  skos:broader <114713>.
+
+<117371> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Ableiten von Wurzelfunktionen"@de;
+  skos:inScheme <3>;
+  skos:broader <1490>.
+
+<26135> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <23270>;
+  skos:prefLabel "Eigenschaften von Kunststoffen"@de.
+
+<155875> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Periodensystem"@de;
+  skos:broader <155709>;
+  skos:inScheme <3>.
+
+<26098> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Flächenberechnung mit Integralen"@de;
+  skos:broader <1307>;
+  skos:inScheme <3>.
+
+<48610> a skos:Concept;
+  skos:broader <48597>;
+  skos:prefLabel "Temperatur und ihre Messung"@de;
+  skos:inScheme <3>.
+
+<44516> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <45981>;
+  skos:prefLabel "Aufgaben zur Parallelverschiebung"@de.
+
+<106085> a skos:Concept;
+  skos:narrower <157967>,
+    <107772>;
+  skos:prefLabel "Latein"@de;
+  skos:broader <106081>;
+  skos:inScheme <3>.
+
+<24662> a skos:Concept;
+  skos:narrower <58496>,
+    <58495>,
+    <26403>,
+    <187453>;
+  skos:prefLabel "Gebrochen-rationale Funktionen"@de;
+  skos:broader <1303>;
+  skos:inScheme <3>.
+
+<77429> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Open Roberta Kursen"@de;
+  skos:broader <76866>.
+
+<46643> a skos:Concept;
+  skos:prefLabel "Gemischte Aufgaben"@de;
+  skos:broader <24443>;
+  skos:inScheme <3>.
+
+<1432> a skos:Concept;
+  skos:broader <24442>;
+  skos:narrower <45638>;
+  skos:inScheme <3>;
+  skos:prefLabel "Dreidimensionales Koordinatensystem"@de.
+
+<26410> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1325>;
+  skos:prefLabel "Aufgaben zur Bestimmung von Nullstellen "@de.
+
+<131670> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Verlaufsform der Gegenwart - Present Progressive"@de;
+  skos:narrower <131799>;
+  skos:broader <128634>.
+
+<1357> a skos:Concept;
+  skos:prefLabel "Winkel"@de;
+  skos:narrower <54051>,
+    <25381>;
+  skos:inScheme <3>;
+  skos:broader <1454>.
+
+<22774> a skos:Concept;
+  skos:narrower <22768>,
+    <22837>,
+    <22767>;
+  skos:prefLabel "Grundbegriffe und Methoden"@de;
+  skos:inScheme <3>;
+  skos:broader <22765>.
+
+<24549> a skos:Concept;
+  skos:prefLabel "Aufgaben zum arithmetischen Mittel"@de;
+  skos:broader <22834>;
+  skos:inScheme <3>.
+
+<41147> a skos:Concept;
+  skos:broader <41107>;
+  skos:prefLabel "Mechanik"@de;
+  skos:inScheme <3>;
+  skos:narrower <48600>.
+
+<56572> a skos:Concept;
+  skos:broader <24243>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Verändern von Funktionsgraphen"@de.
+
+<1431> a skos:Concept;
+  skos:prefLabel "Exponentialgleichungen und logarithmische Gleichungen"@de;
+  skos:inScheme <3>;
+  skos:broader <1371>;
+  skos:narrower <26262>.
+
+<155780> a skos:Concept;
+  skos:broader <18887>;
+  skos:inScheme <3>;
+  skos:narrower <155791>;
+  skos:prefLabel "Alkane, Alkene, Alkine"@de.
+
+<25771> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Kürzen von Brüchen"@de;
+  skos:broader <24279>.
+
+<199823> a skos:Concept;
+  skos:narrower <57028>,
+    <206894>,
+    <182145>;
+  skos:inScheme <3>;
+  skos:prefLabel "Objektorientierte Programmierung und Modellierung"@de;
+  skos:broader <47899>.
+
+<198033> a skos:Concept;
+  skos:prefLabel "Die Erdoberfläche"@de;
+  skos:inScheme <3>;
+  skos:narrower <106091>;
+  skos:broader <106090>.
+
+<25735> a skos:Concept;
+  skos:broader <25308>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Rauschmitteln"@de.
+
+<1436> a skos:Concept;
+  skos:broader <24443>;
+  skos:narrower <30682>;
+  skos:inScheme <3>;
+  skos:prefLabel "Vektorprodukt, Kreuzprodukt"@de.
+
+<1487> a skos:Concept;
+  skos:broader <1348>;
+  skos:prefLabel "Tangente an eine Parabel"@de;
+  skos:inScheme <3>;
+  skos:narrower <30747>.
+
+<131675> a skos:Concept;
+  skos:broader <126990>;
+  skos:prefLabel "Aufgaben zu Adjektiven und Adverbien"@de;
+  skos:inScheme <3>.
+
+<1403> a skos:Concept;
+  skos:narrower <59282>,
+    <103257>,
+    <26260>,
+    <103256>,
+    <103407>,
+    <59281>;
+  skos:broader <1371>;
+  skos:prefLabel "Bruchgleichungen"@de;
+  skos:inScheme <3>.
+
+<26307> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Belegen von Termvariablen"@de;
+  skos:inScheme <3>;
+  skos:broader <1416>.
+
+<24382> a skos:Concept;
+  skos:broader <1363>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Umrechnen von Längeneinheiten"@de.
+
+<25308> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <25735>;
+  skos:prefLabel "Rauschmittel"@de;
+  skos:broader <23397>.
+
+<1302> a skos:Concept;
+  skos:narrower <1415>,
+    <1492>,
+    <24243>,
+    <172927>,
+    <24654>,
+    <174848>;
+  skos:prefLabel "Funktionsbegriff"@de;
+  skos:inScheme <3>;
+  skos:broader <1289>.
+
+<27466> a skos:Concept;
+  skos:broader <23391>;
+  skos:prefLabel "Spinnentiere"@de;
+  skos:inScheme <3>.
+
+<169683> a skos:Concept;
+  skos:broader <167513>;
+  skos:prefLabel "Aufgaben zum Bundespräsident"@de;
+  skos:inScheme <3>.
+
+<23392> a skos:Concept;
+  skos:broader <23369>;
+  skos:inScheme <3>;
+  skos:prefLabel "Skelett und Muskulatur"@de.
+
+<27186> a skos:Concept;
+  skos:prefLabel "Die Synapse"@de;
+  skos:narrower <27188>;
+  skos:broader <23394>;
+  skos:inScheme <3>.
+
+<23387> a skos:Concept;
+  skos:prefLabel "Nacktsamer"@de;
+  skos:broader <23380>;
+  skos:inScheme <3>.
+
+<172258> a skos:Concept;
+  skos:prefLabel "Aufgaben zu parallelen und senkrechten Geraden, Abständen u. a."@de;
+  skos:broader <1327>;
+  skos:inScheme <3>.
+
+<30683> a skos:Concept;
+  skos:broader <1435>;
+  skos:prefLabel "Aufgaben zu Winkeln zwischen Vektoren "@de;
+  skos:inScheme <3>.
+
+<48611> a skos:Concept;
+  skos:prefLabel "Kinetische Gastheorie"@de;
+  skos:inScheme <3>;
+  skos:broader <48597>.
+
+<1328> a skos:Concept;
+  skos:narrower <1367>,
+    <1329>,
+    <1420>;
+  skos:prefLabel "Potenzen, Wurzeln und Logarithmen"@de;
+  skos:inScheme <3>;
+  skos:broader <1390>.
+
+<167514> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Bundesverfassungsgericht"@de;
+  skos:narrower <169684>;
+  skos:broader <151815>.
+
+<47073> a skos:Concept;
+  skos:prefLabel "auf Prüfung vorbereiten"@de;
+  skos:broader <32931>;
+  skos:inScheme <3>.
+
+<129164> a skos:Concept;
+  skos:prefLabel "Steckbriefaufgaben"@de;
+  skos:inScheme <3>;
+  skos:broader <24691>.
+
+<167515> a skos:Concept;
+  skos:narrower <169685>;
+  skos:broader <151815>;
+  skos:prefLabel "Bundesrat"@de;
+  skos:inScheme <3>.
+
+<25770> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Multiplikation von Brüchen"@de;
+  skos:inScheme <3>;
+  skos:broader <1296>.
+
+<123487> a skos:Concept;
+  skos:broader <17744>;
+  skos:narrower <197348>,
+    <25506>,
+    <26052>;
+  skos:prefLabel "Natur und Mensch"@de;
+  skos:inScheme <3>.
+
+<164182> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Historische Modelle und Entwicklung der Atomvorstellung"@de;
+  skos:broader <48615>.
+
+<43444> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Thema Analysis"@de;
+  skos:broader <43042>.
+
+<173135> a skos:Concept;
+  skos:narrower <173140>,
+    <173136>,
+    <173138>,
+    <173143>;
+  skos:inScheme <3>;
+  skos:broader <209103>;
+  skos:prefLabel "MaPhIn-Projekt"@de.
+
+<198771> a skos:Concept;
+  skos:prefLabel "Chancen und Risiken digitaler Kommunikation"@de;
+  skos:inScheme <3>;
+  skos:broader <76682>.
+
+<1406> a skos:Concept;
+  skos:prefLabel "Trigonometrische Gleichungen"@de;
+  skos:broader <1371>;
+  skos:narrower <26261>;
+  skos:inScheme <3>.
+
+<48609> a skos:Concept;
+  skos:prefLabel "Teilchencharakter des Photons"@de;
+  skos:inScheme <3>;
+  skos:broader <48260>.
+
+<62630> a skos:Concept;
+  skos:broader <24429>;
+  skos:prefLabel "Aufgaben zum Volumen eines Quaders"@de;
+  skos:inScheme <3>.
+
+<67194> a skos:Concept;
+  skos:prefLabel "Spezielle Relativitätstheorie"@de;
+  skos:inScheme <3>;
+  skos:broader <67192>.
+
+<49408> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Booleschen Ausdrücken"@de;
+  skos:broader <48965>;
+  skos:inScheme <3>.
+
+<107772> a skos:Concept;
+  skos:prefLabel "Baustelle Latein"@de;
+  skos:broader <106085>;
+  skos:inScheme <3>.
+
+<1415> a skos:Concept;
+  skos:prefLabel "Funktionen und Relationen"@de;
+  skos:narrower <26394>;
+  skos:broader <1302>;
+  skos:inScheme <3>.
+
+<79160> a skos:Concept;
+  skos:broader <79159>;
+  skos:prefLabel "Globalisierung"@de;
+  skos:inScheme <3>.
+
+<24396> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Flächen-, Umfangsberechnung und anderes zu ebenen Figuren"@de;
+  skos:narrower <40692>,
+    <187894>,
+    <40693>;
+  skos:broader <1394>.
+
+<57628> a skos:Concept;
+  skos:narrower <57630>,
+    <65813>,
+    <57633>,
+    <57631>,
+    <57629>;
+  skos:inScheme <3>;
+  skos:broader <47899>;
+  skos:prefLabel "Daten und Informationen"@de.
+
+<46615> a skos:Concept;
+  skos:broader <1433>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben"@de.
+
+<155870> a skos:Concept;
+  skos:broader <155781>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Aromaten"@de.
+
+<174858> a skos:Concept;
+  skos:broader <174848>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Begriff der Nullstelle"@de.
+
+<25619> a skos:Concept;
+  skos:broader <1362>;
+  skos:prefLabel "Aufgaben zum Thema Fakultät"@de;
+  skos:inScheme <3>.
+
+<1420> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1328>;
+  skos:prefLabel "Potenzen"@de;
+  skos:narrower <23767>,
+    <23662>,
+    <23665>.
+
+<157977> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben zu den Konjugationen"@de;
+  skos:broader <157968>.
+
+<27695> a skos:Concept;
+  skos:broader <1397>;
+  skos:inScheme <3>;
+  skos:prefLabel "Summer Academy"@de.
+
+<24679> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1304>;
+  skos:prefLabel "Ableitung von Polynomfunktionen und anderen Grundfunktionen"@de.
+
+<1367> a skos:Concept;
+  skos:narrower <23768>,
+    <23769>;
+  skos:inScheme <3>;
+  skos:broader <1328>;
+  skos:prefLabel "Logarithmen und Exponentialterme"@de.
+
+<23418> a skos:Concept;
+  skos:narrower <105508>;
+  skos:inScheme <3>;
+  skos:prefLabel "Sinne und Organe des Menschen"@de;
+  skos:broader <23369>.
+
+<54051> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1357>;
+  skos:prefLabel "Aufgaben zum Bogenmaß"@de.
+
+<1450> a skos:Concept;
+  skos:narrower <145400>,
+    <54054>,
+    <26404>,
+    <53198>,
+    <53910>;
+  skos:broader <1303>;
+  skos:prefLabel "Trigonometrische Funktionen"@de;
+  skos:inScheme <3>.
+
+<182015> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <189475>,
+    <185828>;
+  skos:prefLabel "Ernährung"@de;
+  skos:broader <123772>.
+
+<1383> a skos:Concept;
+  skos:narrower <24424>,
+    <1449>,
+    <1451>;
+  skos:broader <1288>;
+  skos:inScheme <3>;
+  skos:prefLabel "Sinus, Kosinus und Tangens"@de.
+
+<184726> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <173140>;
+  skos:prefLabel "Umwandlung zwischen den Darstellungsformen"@de.
+
+<26306> a skos:Concept;
+  skos:broader <1445>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu linearen Ungleichungen"@de.
+
+<26414> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Kurvendiskussion"@de;
+  skos:broader <1480>;
+  skos:inScheme <3>.
+
+<106093> 
+  skos:narrower <106094>.
+
+<40692> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <24396>;
+  skos:prefLabel "Aufgaben zur Flächenberechnung an ebenen Vielecken"@de.
+
+<48605> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <48599>;
+  skos:prefLabel "Elektromagnetische Wellen"@de.
+
+<111518> a skos:Concept;
+  skos:broader <23673>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Termen mit Quadratwurzeln"@de.
+
+<36440> a skos:Concept;
+  skos:broader <23766>;
+  skos:prefLabel "Aufgaben zum Thema Mittelsenkrechte"@de;
+  skos:inScheme <3>.
+
+<24368> a skos:Concept;
+  skos:prefLabel "Aufgaben zur indirekten Proportionalität"@de;
+  skos:inScheme <3>;
+  skos:broader <1346>.
+
+<24547> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Erwartungswert"@de;
+  skos:broader <1439>;
+  skos:inScheme <3>.
+
+<25614> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Thema Ergebnisraum oder Ergebnismenge"@de;
+  skos:broader <1314>.
+
+<26413> a skos:Concept;
+  skos:broader <1438>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Bestimmung von Wertebereichen"@de.
+
+<70951> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Umrechnen von Volumeneinheiten"@de;
+  skos:inScheme <3>;
+  skos:broader <24429>.
+
+<200615> a skos:Concept;
+  skos:prefLabel "Pronomen"@de;
+  skos:broader <198077>;
+  skos:inScheme <3>.
+
+<160065> a skos:Concept;
+  skos:broader <1348>;
+  skos:narrower <160066>;
+  skos:prefLabel "Schnittpunkte von Parabeln mit Geraden oder Parabeln"@de;
+  skos:inScheme <3>.
+
+<60319> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <23874>;
+  skos:prefLabel "Aufgaben zum Anwenden der Rechengesetze"@de.
+
+<48617> a skos:Concept;
+  skos:prefLabel "Elektrizitätslehre"@de;
+  skos:narrower <41317>,
+    <46133>,
+    <43282>,
+    <46626>;
+  skos:inScheme <3>;
+  skos:broader <41148>.
+
+<200247> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Hack The Web"@de;
+  skos:broader <75211>.
+
+<69859> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Datenbankmodellierung"@de;
+  skos:inScheme <3>;
+  skos:broader <69501>.
+
+<27188> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Synapse"@de;
+  skos:broader <27186>.
+
+<26202> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <26201>;
+  skos:prefLabel "Diagramme"@de.
+
+<1410> a skos:Concept;
+  skos:prefLabel "Binomialkoeffizienten"@de;
+  skos:narrower <25620>;
+  skos:broader <1313>;
+  skos:inScheme <3>.
+
+<1358> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <60009>,
+    <60012>,
+    <25380>;
+  skos:prefLabel "Punkte im Koordinatensystem"@de;
+  skos:broader <1454>.
+
+<114723> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Weiteres Thema"@de;
+  skos:broader <114706>.
+
+<132795> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Will-Future"@de;
+  skos:broader <132425>.
+
+<134074> a skos:Concept;
+  skos:broader <128626>;
+  skos:inScheme <3>;
+  skos:prefLabel "If-Sätze - If-clauses"@de.
+
+<174191> a skos:Concept;
+  skos:broader <1377>;
+  skos:prefLabel "Aufgaben zur Darstellung von Prozentangaben in Diagrammen"@de;
+  skos:inScheme <3>.
+
+<27191> a skos:Concept;
+  skos:prefLabel "Auswirkungen aufs Nervensystem von Fremdstoffen und Erkrankungen"@de;
+  skos:broader <23394>;
+  skos:inScheme <3>;
+  skos:narrower <27193>.
+
+<47075> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "neue Aufgaben erstellen"@de;
+  skos:broader <32931>.
+
+<1385> a skos:Concept;
+  skos:narrower <23875>,
+    <1389>,
+    <23871>,
+    <1386>,
+    <23876>,
+    <1377>,
+    <1346>,
+    <1363>,
+    <24142>;
+  skos:inScheme <3>;
+  skos:broader <5>;
+  skos:prefLabel "Zahlen und Größen"@de.
+
+<24491> a skos:Concept;
+  skos:broader <1375>;
+  skos:prefLabel "Aufgaben zum Ausmultiplizieren"@de;
+  skos:inScheme <3>.
+
+<41107> a skos:Concept;
+  skos:narrower <41147>,
+    <41148>,
+    <48260>,
+    <71274>,
+    <114704>,
+    <67192>,
+    <48598>;
+  skos:prefLabel "Physik"@de;
+  skos:topConceptOf <3>.
+
+<23397> a skos:Concept;
+  skos:narrower <25307>,
+    <25309>,
+    <25308>,
+    <25310>;
+  skos:prefLabel "Sucht und Gesundheit"@de;
+  skos:broader <23369>;
+  skos:inScheme <3>.
+
+<58876> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Exponentialfunktionen"@de;
+  skos:broader <1324>.
+
+<25736> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Computer und Suchtgefahr"@de;
+  skos:broader <25309>.
+
+<1460> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <1471>,
+    <1472>,
+    <1473>,
+    <1419>;
+  skos:prefLabel "Lagebeziehung von Punkten, Geraden und Ebenen"@de;
+  skos:broader <1413>.
+
+<184732> a skos:Concept;
+  skos:prefLabel "Mitternachtsformel"@de;
+  skos:broader <173143>;
+  skos:inScheme <3>.
+
+<146519> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Radioaktivität"@de;
+  skos:broader <48616>;
+  skos:inScheme <3>.
+
+<18888> 
+  skos:narrower <23243>,
+    <23275>,
+    <23273>,
+    <23272>,
+    <23274>,
+    <23276>.
+
+<23386> a skos:Concept;
+  skos:broader <23380>;
+  skos:inScheme <3>;
+  skos:prefLabel "Farne"@de.
+
+<24442> a skos:Concept;
+  skos:narrower <1432>,
+    <24439>,
+    <1433>;
+  skos:broader <1413>;
+  skos:prefLabel "Grundbegriffe der Vektorrechnung"@de;
+  skos:inScheme <3>.
+
+<207966> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <74950>;
+  skos:prefLabel "...in der Wirtschaft"@de.
+
+<205951> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Anwendungen"@de;
+  skos:broader <203352>;
+  skos:inScheme <3>.
+
+<47074> a skos:Concept;
+  skos:broader <32931>;
+  skos:inScheme <3>;
+  skos:prefLabel "neue Beiträge verfassen"@de.
+
+<210218> a skos:Concept;
+  skos:broader <210211>;
+  skos:prefLabel "Aufgaben zu hierarchischen Strukturen"@de;
+  skos:inScheme <3>.
+
+<78053> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Sinussatz und Kosinussatz"@de;
+  skos:broader <24424>.
+
+<184941> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Zahlensystemen"@de;
+  skos:broader <184932>.
+
+<1360> a skos:Concept;
+  skos:narrower <25112>,
+    <25115>,
+    <25114>,
+    <28507>,
+    <25111>,
+    <25122>;
+  skos:inScheme <3>;
+  skos:broader <1389>;
+  skos:prefLabel "Dezimalbrüche"@de.
+
+<26431> a skos:Concept;
+  skos:broader <1363>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Thema Maßstab"@de.
+
+<71703> a skos:Concept;
+  skos:broader <1337>;
+  skos:prefLabel "Beziehungen zwischen Vierecken"@de;
+  skos:narrower <71704>,
+    <175426>,
+    <175425>;
+  skos:inScheme <3>.
+
+<133082> a skos:Concept;
+  skos:prefLabel "Mengenwörter"@de;
+  skos:inScheme <3>;
+  skos:narrower <133083>;
+  skos:broader <126986>.
+
+<46883> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Essen"@de;
+  skos:broader <26382>.
+
+<24684> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1374>;
+  skos:prefLabel "Aufgaben zum Berechnen von Asymptoten"@de.
+
+<25309> a skos:Concept;
+  skos:prefLabel "Computer und Suchtgefahr"@de;
+  skos:broader <23397>;
+  skos:narrower <25736>;
+  skos:inScheme <3>.
+
+<24371> a skos:Concept;
+  skos:prefLabel "Sachaufgaben zum Thema Geld"@de;
+  skos:broader <1363>;
+  skos:inScheme <3>.
+
+<23270> a skos:Concept;
+  skos:narrower <26135>,
+    <26133>,
+    <26134>;
+  skos:prefLabel "Kunststoffe"@de;
+  skos:inScheme <3>;
+  skos:broader <18887>.
+
+<47090> a skos:Concept;
+  skos:broader <26457>;
+  skos:prefLabel "DTZ"@de;
+  skos:inScheme <3>.
+
+<70305> a skos:Concept;
+  skos:broader <57633>;
+  skos:prefLabel "E-Mail"@de;
+  skos:inScheme <3>.
+
+<26254> a skos:Concept;
+  skos:broader <1445>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben zu Ungleichungen"@de.
+
+<74679> a skos:Concept;
+  skos:broader <1397>;
+  skos:inScheme <3>;
+  skos:prefLabel "Später löschen"@de.
+
+<126990> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <131675>;
+  skos:prefLabel "Adjektive und Adverbien "@de;
+  skos:broader <126986>.
+
+<1483> a skos:Concept;
+  skos:prefLabel "Parabeln"@de;
+  skos:narrower <26400>;
+  skos:inScheme <3>;
+  skos:broader <1348>.
+
+<173138> a skos:Concept;
+  skos:narrower <184721>,
+    <184722>,
+    <184720>;
+  skos:prefLabel "Besondere Funktionen"@de;
+  skos:inScheme <3>;
+  skos:broader <173135>.
+
+<47899> a skos:Concept;
+  skos:narrower <69501>,
+    <162149>,
+    <162150>,
+    <76682>,
+    <199822>,
+    <76683>,
+    <75211>,
+    <57628>,
+    <199823>;
+  skos:prefLabel "Informatik"@de;
+  skos:topConceptOf <3>.
+
+<74950> a skos:Concept;
+  skos:narrower <207967>,
+    <202976>,
+    <210031>,
+    <207966>,
+    <182827>;
+  skos:inScheme <3>;
+  skos:broader <17744>;
+  skos:prefLabel "Was bedeutet Nachhaltigkeit?"@de.
+
+<71166> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <26201>;
+  skos:prefLabel "Aufgaben richtig bearbeiten"@de.
+
+<114725> a skos:Concept;
+  skos:broader <114713>;
+  skos:inScheme <3>;
+  skos:prefLabel "Elektrische Quellen und Verbraucher"@de.
+
+<23869> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Prozentrechnung"@de;
+  skos:broader <1377>.
+
+<131799> a skos:Concept;
+  skos:broader <131670>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Verlaufsform der Gegenwart - Present Progressive"@de.
+
+<1490> a skos:Concept;
+  skos:prefLabel "Produktregel, Quotientenregel und Kettenregel"@de;
+  skos:narrower <117371>,
+    <24523>,
+    <107196>,
+    <24524>,
+    <24525>;
+  skos:broader <1304>;
+  skos:inScheme <3>.
+
+<20575> a skos:Concept;
+  skos:narrower <42613>,
+    <42482>,
+    <30677>;
+  skos:broader <45792>;
+  skos:inScheme <3>;
+  skos:prefLabel "Spiegelung"@de.
+
+<18902> a skos:Concept;
+  skos:prefLabel "Stoffeigenschaften"@de;
+  skos:inScheme <3>;
+  skos:narrower <155794>,
+    <31686>,
+    <26111>;
+  skos:broader <18884>.
+
+<155794> a skos:Concept;
+  skos:broader <18902>;
+  skos:narrower <214094>;
+  skos:prefLabel "Stereochemie"@de;
+  skos:inScheme <3>.
+
+<25726> a skos:Concept;
+  skos:prefLabel "Sachaufgaben zu den Grundrechenarten"@de;
+  skos:broader <1368>;
+  skos:inScheme <3>.
+
+<19457> a skos:Concept;
+  skos:prefLabel "Merkmale einer chemische Reaktion"@de;
+  skos:inScheme <3>;
+  skos:broader <18885>.
+
+<71274> a skos:Concept;
+  skos:prefLabel "Testbereich Serlo-Physik"@de;
+  skos:inScheme <3>;
+  skos:broader <41107>.
+
+<47097> a skos:Concept;
+  skos:prefLabel "Unterhaltung"@de;
+  skos:inScheme <3>;
+  skos:broader <26456>.
+
+<131196> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben"@de;
+  skos:broader <131195>.
+
+<40404> a skos:Concept;
+  skos:broader <1368>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Abschätzen von Größen"@de.
+
+<21399> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1306>;
+  skos:prefLabel "Spezielle Methoden zum Finden einer Stammfunktion"@de.
+
+<70946> a skos:Concept;
+  skos:broader <64169>;
+  skos:prefLabel "Zelltypen"@de;
+  skos:inScheme <3>.
+
+<175425> a skos:Concept;
+  skos:broader <71703>;
+  skos:prefLabel "Gemischte Aufgaben zum Erkennen besonderer Vierecke"@de;
+  skos:inScheme <3>.
+
+<55138> a skos:Concept;
+  skos:prefLabel "Aufgaben zum schriftlichen Multiplizieren"@de;
+  skos:broader <1294>;
+  skos:inScheme <3>.
+
+<59282> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Bruchgleichungen, die auf quadratische Gleichungen führen"@de;
+  skos:broader <1403>.
+
+<48602> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <48599>;
+  skos:prefLabel "Strahlenoptik"@de.
+
+<23362> a skos:Concept;
+  skos:prefLabel "Biologie"@de;
+  skos:narrower <23399>,
+    <23400>,
+    <23402>,
+    <64169>,
+    <26201>,
+    <23376>,
+    <23369>,
+    <23401>;
+  skos:topConceptOf <3>.
+
+<126986> a skos:Concept;
+  skos:narrower <126990>,
+    <128626>,
+    <133993>,
+    <131661>,
+    <133082>;
+  skos:inScheme <3>;
+  skos:broader <107557>;
+  skos:prefLabel "Grammatik"@de.
+
+<40684> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Rechnen mit Brüchen"@de;
+  skos:broader <1322>;
+  skos:inScheme <3>.
+
+<57630> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Speicherung von Informationen"@de;
+  skos:broader <57628>.
+
+<30677> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <20575>;
+  skos:prefLabel "Aufgaben zur Achsenspiegelung"@de.
+
+<26391> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Rechtschreibung"@de;
+  skos:broader <26335>.
+
+<57629> a skos:Concept;
+  skos:prefLabel "Darstellung von Informationen"@de;
+  skos:broader <57628>;
+  skos:inScheme <3>;
+  skos:narrower <58039>.
+
+<26416> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1409>;
+  skos:prefLabel "Aufgaben zur Diskussion von Funktionenscharen"@de.
+
+<26258> a skos:Concept;
+  skos:prefLabel "Aufgaben zu linearen Gleichungen"@de;
+  skos:broader <1393>;
+  skos:inScheme <3>.
+
+<106081> 
+  skos:narrower <106085>,
+    <107556>,
+    <107557>,
+    <167849>,
+    <210462>,
+    <173235>.
+
+<62149> a skos:Concept;
+  skos:prefLabel "Aufgaben zu allen Grundrechenarten mit ganzen Zahlen"@de;
+  skos:inScheme <3>;
+  skos:broader <1388>.
+
+<57633> a skos:Concept;
+  skos:prefLabel "Übertragung von Informationen"@de;
+  skos:inScheme <3>;
+  skos:narrower <70305>;
+  skos:broader <57628>.
+
+<178245> a skos:Concept;
+  skos:broader <218670>;
+  skos:prefLabel "Aufgaben zu Skonto, Bonus und Rabatt"@de;
+  skos:inScheme <3>.
+
+<26204> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Modelle"@de;
+  skos:broader <26201>.
+
+<1363> a skos:Concept;
+  skos:narrower <26431>,
+    <24363>,
+    <24384>,
+    <24377>,
+    <24361>,
+    <24382>,
+    <24371>,
+    <24373>,
+    <24376>,
+    <35087>,
+    <26430>,
+    <24418>,
+    <1365>,
+    <24372>,
+    <24365>,
+    <24374>,
+    <26429>,
+    <24386>;
+  skos:broader <1385>;
+  skos:inScheme <3>;
+  skos:prefLabel "Größen und Einheiten"@de.
+
+<24507> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1324>;
+  skos:prefLabel "Aufgaben zur Diskussion von e-Funktionen"@de.
+
+<114712> a skos:Concept;
+  skos:broader <114704>;
+  skos:narrower <167944>;
+  skos:inScheme <3>;
+  skos:prefLabel "  Optik "@de.
+
+<1473> a skos:Concept;
+  skos:broader <1460>;
+  skos:narrower <30689>;
+  skos:prefLabel "Lage von Punkten bestimmen"@de;
+  skos:inScheme <3>.
+
+<1387> a skos:Concept;
+  skos:broader <1386>;
+  skos:narrower <25723>;
+  skos:prefLabel "Grundrechenarten kombiniert - ohne negative Zahlen"@de;
+  skos:inScheme <3>.
+
+<48569> a skos:Concept;
+  skos:prefLabel "Gemischte Aufgaben zu Verschlüsselungen"@de;
+  skos:inScheme <3>;
+  skos:broader <48499>.
+
+<46046> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Abstand"@de;
+  skos:broader <1467>.
+
+<26312> a skos:Concept;
+  skos:prefLabel "Aufgaben zu den binomischen Formeln"@de;
+  skos:inScheme <3>;
+  skos:broader <1333>.
+
+<65813> a skos:Concept;
+  skos:prefLabel "Strukturierung von Informationen"@de;
+  skos:inScheme <3>;
+  skos:broader <57628>;
+  skos:narrower <65814>,
+    <65746>.
+
+<184715> a skos:Concept;
+  skos:prefLabel "Y-Achsenabschnitt"@de;
+  skos:inScheme <3>;
+  skos:broader <173136>.
+
+<59402> a skos:Concept;
+  skos:broader <24429>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Volumen einer Pyramide"@de.
+
+<31860> a skos:Concept;
+  skos:broader <24439>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Berechnung eines Vektors zwischen zwei Punkten"@de.
+
+<184708> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <173136>;
+  skos:prefLabel "Funktion (Definition)"@de.
+
+<184722> a skos:Concept;
+  skos:prefLabel "Lineare Funktionen"@de;
+  skos:inScheme <3>;
+  skos:broader <173138>.
+
+<24430> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <60730>;
+  skos:prefLabel "Aufgaben zum Quader"@de.
+
+<63558> a skos:Concept;
+  skos:broader <22779>;
+  skos:prefLabel "Aufgaben zur Berechnung von Wahrscheinlichkeiten"@de;
+  skos:inScheme <3>.
+
+<1308> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1306>;
+  skos:narrower <26415>;
+  skos:prefLabel "Stammfunktion "@de.
+
+<155793> a skos:Concept;
+  skos:prefLabel "Wechselwirkungen"@de;
+  skos:broader <23256>;
+  skos:inScheme <3>.
+
+<26888> a skos:Concept;
+  skos:broader <26872>;
+  skos:prefLabel "Conjunction of verbs"@de;
+  skos:inScheme <3>.
+
+<47085> a skos:Concept;
+  skos:broader <26335>;
+  skos:prefLabel "Satzzeichen"@de;
+  skos:inScheme <3>.
+
+<203510> a skos:Concept;
+  skos:broader <76684>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Präsentationen"@de.
+
+<25721> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Division"@de;
+  skos:inScheme <3>;
+  skos:broader <1295>.
+
+<86955> a skos:Concept;
+  skos:prefLabel "Konflikte und Aggression"@de;
+  skos:inScheme <3>;
+  skos:broader <86828>.
+
+<1341> a skos:Concept;
+  skos:narrower <150454>,
+    <25777>;
+  skos:prefLabel "Teiler und Vielfache"@de;
+  skos:inScheme <3>;
+  skos:broader <23875>.
+
+<122106> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Bestimmung von Nullstellen mittels Substitution"@de;
+  skos:inScheme <3>;
+  skos:broader <1325>.
+
+<42307> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1439>;
+  skos:prefLabel "Gemischte Aufgaben zu Zufallsgrößen"@de.
+
+<1343> a skos:Concept;
+  skos:broader <1373>;
+  skos:narrower <26411>;
+  skos:prefLabel "Symmetrie"@de;
+  skos:inScheme <3>.
+
+<51936> a skos:Concept;
+  skos:broader <48260>;
+  skos:prefLabel "Wellencharakter von Elektronen"@de;
+  skos:inScheme <3>.
+
+<212024> a skos:Concept;
+  skos:broader <203352>;
+  skos:prefLabel "Färbeverfahren"@de;
+  skos:inScheme <3>.
+
+<26309> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1345>;
+  skos:prefLabel "Aufgaben zum Aufstellen von Termen mit Variablen aus Geometrie u. a."@de.
+
+<48600> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <64618>,
+    <111041>,
+    <143551>;
+  skos:prefLabel "Klassische Mechanik"@de;
+  skos:broader <41147>.
+
+<42482> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <20575>;
+  skos:prefLabel "Aufgaben zur Punktspiegelung"@de.
+
+<25799> a skos:Concept;
+  skos:broader <1296>;
+  skos:prefLabel "Aufgaben zur Division von Brüchen"@de;
+  skos:inScheme <3>.
+
+<155709> a skos:Concept;
+  skos:narrower <155713>,
+    <158240>,
+    <155714>,
+    <155875>;
+  skos:broader <18230>;
+  skos:prefLabel "Grundlagen"@de;
+  skos:inScheme <3>.
+
+<19470> a skos:Concept;
+  skos:broader <18886>;
+  skos:prefLabel "Atommodelle"@de;
+  skos:narrower <160844>;
+  skos:inScheme <3>.
+
+<205952> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Färbeverfahren"@de;
+  skos:broader <203352>.
+
+<53198> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1450>;
+  skos:prefLabel "Aufgaben zu Ableitungen, Symmetrie und Umkehrfunktionen trigonometrischer Funktionen"@de.
+
+<25112> a skos:Concept;
+  skos:broader <1360>;
+  skos:prefLabel "Aufgaben zur Multiplikation und Division von Dezimalbrüchen"@de;
+  skos:inScheme <3>.
+
+<25779> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1479>;
+  skos:prefLabel "Aufgaben zum kartesischen Produkt von Mengen"@de.
+
+<200612> a skos:Concept;
+  skos:prefLabel "Verben"@de;
+  skos:inScheme <3>;
+  skos:broader <198077>.
+
+<169812> a skos:Concept;
+  skos:broader <1441>;
+  skos:prefLabel "Aufgaben zu Satz und Kehrsatz"@de;
+  skos:inScheme <3>.
+
+<133517> a skos:Concept;
+  skos:broader <131661>;
+  skos:prefLabel "Aufgaben zu den bestimmten und unbestimmten Artikeln"@de;
+  skos:inScheme <3>.
+
+<24372> a skos:Concept;
+  skos:broader <1363>;
+  skos:inScheme <3>;
+  skos:prefLabel "Sachaufgaben zum Thema Länge"@de.
+
+<117258> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben für Kurs Praktische Umformungen zum Ableiten von Bruchtermen"@de;
+  skos:broader <25107>.
+
+<218676> 
+  skos:narrower <209228>,
+    <213199>.
+
+<24243> a skos:Concept;
+  skos:prefLabel "Funktionsgraphen verändern"@de;
+  skos:narrower <56572>;
+  skos:inScheme <3>;
+  skos:broader <1302>.
+
+<123772> a skos:Concept;
+  skos:narrower <182014>,
+    <102788>,
+    <182016>,
+    <182015>,
+    <186539>;
+  skos:inScheme <3>;
+  skos:prefLabel "DIY: Nachhaltig leben"@de;
+  skos:broader <17744>.
+
+<43453> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <43042>;
+  skos:prefLabel "Aufgaben zum Thema Kombinatorik"@de.
+
+<70208> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <70053>;
+  skos:prefLabel "Aufgaben zu Robot Karol"@de.
+
+<174192> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1377>;
+  skos:prefLabel "Aufgaben zu Prozent und Prozentpunkten"@de.
+
+<22834> a skos:Concept;
+  skos:broader <22778>;
+  skos:narrower <24549>,
+    <24551>,
+    <24550>;
+  skos:inScheme <3>;
+  skos:prefLabel "Daten und Kenngrößen"@de.
+
+<156667> a skos:Concept;
+  skos:broader <1451>;
+  skos:prefLabel "Aufgaben zu sin, cos und tan im dreidimensionalen Raum"@de;
+  skos:inScheme <3>.
+
+<1388> a skos:Concept;
+  skos:broader <1386>;
+  skos:narrower <62149>,
+    <25724>,
+    <40398>,
+    <97606>,
+    <62148>;
+  skos:prefLabel "Rechnen mit ganzen Zahlen"@de;
+  skos:inScheme <3>.
+
+<62414> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1351>;
+  skos:prefLabel "Aufgaben zum Größenvergleich und ganzen Zahlen"@de.
+
+<1447> a skos:Concept;
+  skos:narrower <26420>;
+  skos:prefLabel "Newtonsches Näherungsverfahren"@de;
+  skos:inScheme <3>;
+  skos:broader <1430>.
+
+<30685> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Umwandlung der Ebenendarstellung"@de;
+  skos:broader <1466>;
+  skos:inScheme <3>.
+
+<1463> a skos:Concept;
+  skos:broader <1413>;
+  skos:narrower <46045>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben"@de.
+
+<26259> a skos:Concept;
+  skos:prefLabel "Aufgaben zu quadratischen Gleichungen"@de;
+  skos:broader <1396>;
+  skos:inScheme <3>.
+
+<1292> a skos:Concept;
+  skos:narrower <25673>,
+    <97589>;
+  skos:prefLabel "Addition"@de;
+  skos:broader <1386>;
+  skos:inScheme <3>.
+
+<114717> a skos:Concept;
+  skos:prefLabel "  Optik "@de;
+  skos:inScheme <3>;
+  skos:broader <114706>.
+
+<155747> a skos:Concept;
+  skos:prefLabel "Atommasse"@de;
+  skos:broader <155743>;
+  skos:inScheme <3>.
+
+<1345> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1485>;
+  skos:prefLabel "Terme aufstellen"@de;
+  skos:narrower <169873>,
+    <169879>,
+    <26309>.
+
+<24389> a skos:Concept;
+  skos:broader <1336>;
+  skos:narrower <24390>,
+    <67965>;
+  skos:prefLabel "Dreiecksfläche berechnen"@de;
+  skos:inScheme <3>.
+
+<169879> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Aufstellen von Termen mit Variablen aus der Prozentrechnung"@de;
+  skos:broader <1345>.
+
+<184723> a skos:Concept;
+  skos:broader <173140>;
+  skos:prefLabel "Normalform"@de;
+  skos:inScheme <3>.
+
+<48616> a skos:Concept;
+  skos:narrower <146520>,
+    <146521>,
+    <146519>;
+  skos:inScheme <3>;
+  skos:prefLabel "Kernphysik"@de;
+  skos:broader <48598>.
+
+<23402> a skos:Concept;
+  skos:prefLabel "Evolutionsbiologie"@de;
+  skos:inScheme <3>;
+  skos:narrower <86826>,
+    <86825>,
+    <86824>;
+  skos:broader <23362>.
+
+<184716> a skos:Concept;
+  skos:broader <173136>;
+  skos:inScheme <3>;
+  skos:prefLabel "Nullstellen"@de.
+
+<198077> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <198076>;
+  skos:narrower <200615>,
+    <200612>,
+    <200614>,
+    <200613>,
+    <200616>;
+  skos:prefLabel "Grammatik"@de.
+
+<26326> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1445>;
+  skos:prefLabel "Aufgaben zu Bruchungleichungen"@de.
+
+<25115> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben zu Dezimalzahlen"@de;
+  skos:broader <1360>.
+
+<26401> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1412>;
+  skos:prefLabel "Gemischte Aufgaben zu quadratischen Funktionen"@de.
+
+<108185> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Molekulargenetik"@de;
+  skos:broader <29554>;
+  skos:inScheme <3>.
+
+<83724> a skos:Concept;
+  skos:prefLabel "Aufgaben zum graphischen Veranschaulichen von Bruchteilen"@de;
+  skos:broader <24279>;
+  skos:inScheme <3>.
+
+<160385> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Berechnung von Schnittpunkten von Geraden"@de;
+  skos:broader <1327>.
+
+<43291> a skos:Concept;
+  skos:broader <43042>;
+  skos:prefLabel "Aufgaben zum Thema Aussagenlogik"@de;
+  skos:inScheme <3>.
+
+<1394> a skos:Concept;
+  skos:broader <1288>;
+  skos:narrower <1336>,
+    <24396>,
+    <1338>,
+    <1337>,
+    <24375>;
+  skos:inScheme <3>;
+  skos:prefLabel "Dreiecke, Vierecke, Kreise und andere ebene Figuren"@de.
+
+<26886> a skos:Concept;
+  skos:broader <26872>;
+  skos:prefLabel "Adjektive - Adverben"@de;
+  skos:inScheme <3>.
+
+<200160> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Insekten und Bestäuber"@de;
+  skos:broader <197348>.
+
+<1485> a skos:Concept;
+  skos:prefLabel "Terme allgemein"@de;
+  skos:narrower <1345>,
+    <1416>;
+  skos:broader <1331>;
+  skos:inScheme <3>.
+
+<155746> a skos:Concept;
+  skos:prefLabel "Quantitative Analyse"@de;
+  skos:broader <155743>;
+  skos:inScheme <3>.
+
+<71704> a skos:Concept;
+  skos:broader <71703>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Beziehungen zwischen den besonderen Vierecksarten"@de.
+
+<25723> a skos:Concept;
+  skos:broader <1387>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben zu den Grundrechenarten - ohne negative Zahlen"@de.
+
+<23377> a skos:Concept;
+  skos:prefLabel "Algen"@de;
+  skos:broader <23376>;
+  skos:inScheme <3>.
+
+<24670> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Stetigkeit"@de;
+  skos:broader <17132>;
+  skos:narrower <194263>.
+
+<25888> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <19465>,
+    <19458>,
+    <155869>,
+    <155797>,
+    <19466>,
+    <155720>,
+    <155719>,
+    <19461>,
+    <155721>,
+    <19462>;
+  skos:broader <18885>;
+  skos:prefLabel "Arten von Reaktionen"@de.
+
+<23376> a skos:Concept;
+  skos:narrower <23391>,
+    <163282>,
+    <23380>,
+    <23389>,
+    <23381>,
+    <23379>,
+    <23377>;
+  skos:inScheme <3>;
+  skos:broader <23362>;
+  skos:prefLabel "Vielfalt der Lebewesen"@de.
+
+<24443> a skos:Concept;
+  skos:narrower <1435>,
+    <46643>,
+    <46048>,
+    <1436>,
+    <1434>,
+    <1474>;
+  skos:inScheme <3>;
+  skos:broader <1413>;
+  skos:prefLabel "Methoden der Vektorrechnung"@de.
+
+<30560> a skos:Concept;
+  skos:broader <1338>;
+  skos:prefLabel "Aufgaben zu Kreisen und Kreisteilen"@de;
+  skos:inScheme <3>.
+
+<30688> a skos:Concept;
+  skos:broader <1472>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Lagebeziehung zweier Ebenen"@de.
+
+<30679> a skos:Concept;
+  skos:broader <1449>;
+  skos:prefLabel "Aufgaben zum Sinus und Kosinus am Einheitskreis "@de;
+  skos:inScheme <3>.
+
+<45659> a skos:Concept;
+  skos:prefLabel "Aufgaben zur skalaren Multiplikation und zu Vektorketten"@de;
+  skos:broader <1433>;
+  skos:inScheme <3>.
+
+<25739> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Abhängigkeit"@de;
+  skos:inScheme <3>;
+  skos:broader <25307>.
+
+<48563> a skos:Concept;
+  skos:prefLabel "Allgemeine Einführung"@de;
+  skos:broader <48498>;
+  skos:inScheme <3>.
+
+<26883> a skos:Concept;
+  skos:broader <26872>;
+  skos:inScheme <3>;
+  skos:prefLabel "Satzbau - Syntax"@de;
+  skos:narrower <26903>.
+
+<1419> a skos:Concept;
+  skos:narrower <30686>;
+  skos:prefLabel "Lagebeziehung zweier Geraden"@de;
+  skos:broader <1460>;
+  skos:inScheme <3>.
+
+<40685> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Sachaufgaben mit Brüchen"@de;
+  skos:broader <1322>.
+
+<105140> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1397>;
+  skos:narrower <169880>,
+    <139219>;
+  skos:prefLabel "Baustelle Mathematik"@de.
+
+<1335> a skos:Concept;
+  skos:prefLabel "Gleichungssysteme"@de;
+  skos:narrower <72471>,
+    <48895>,
+    <24468>,
+    <72113>,
+    <24469>,
+    <24467>,
+    <111417>;
+  skos:inScheme <3>;
+  skos:broader <1390>.
+
+<48565> a skos:Concept;
+  skos:broader <48498>;
+  skos:narrower <70106>;
+  skos:prefLabel "Fortgeschrittene Programmierung"@de;
+  skos:inScheme <3>.
+
+<30686> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Lagebeziehung zweier Geraden"@de;
+  skos:broader <1419>.
+
+<23393> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Herz und Blutkreislauf"@de;
+  skos:broader <23369>.
+
+<59991> a skos:Concept;
+  skos:prefLabel "Sachaufgaben zu linearen Funktionen"@de;
+  skos:inScheme <3>;
+  skos:broader <1327>.
+
+<128634> a skos:Concept;
+  skos:narrower <131670>,
+    <128638>;
+  skos:broader <128626>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gegenwart  -  Present"@de.
+
+<25381> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Thema Winkel"@de;
+  skos:broader <1357>;
+  skos:inScheme <3>.
+
+<182145> a skos:Concept;
+  skos:broader <199823>;
+  skos:prefLabel "Objektorientierte Programmierung"@de;
+  skos:narrower <48498>,
+    <132556>;
+  skos:inScheme <3>.
+
+<115928> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <86825>;
+  skos:prefLabel "Artbildung"@de.
+
+<60009> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Berechnung von Längen im Koordinatensystem"@de;
+  skos:inScheme <3>;
+  skos:broader <1358>.
+
+<40466> a skos:Concept;
+  skos:prefLabel "Pronomen"@de;
+  skos:broader <25715>;
+  skos:inScheme <3>.
+
+<76684> a skos:Concept;
+  skos:broader <76683>;
+  skos:prefLabel "Präsentation"@de;
+  skos:inScheme <3>;
+  skos:narrower <203510>.
+
+<30680> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1451>;
+  skos:prefLabel "Aufgaben zum Sinus, Kosinus und Tangens im rechtwinkligen Dreieck"@de.
+
+<213198> a skos:Concept;
+  skos:broader <155948>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Big Data"@de.
+
+<19465> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Substitution, Addition"@de;
+  skos:broader <25888>.
+
+<1375> a skos:Concept;
+  skos:narrower <24492>,
+    <24496>,
+    <135882>,
+    <40626>,
+    <24491>,
+    <135881>;
+  skos:inScheme <3>;
+  skos:broader <1331>;
+  skos:prefLabel "Zusammenfassen, Ausmultiplizieren, Faktorisieren"@de.
+
+<159266> a skos:Concept;
+  skos:broader <1427>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Extremwertproblemen aus der Geometrie"@de.
+
+<175427> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1380>;
+  skos:prefLabel "Aufgaben zur Konstruierbarkeit von Dreiecken"@de.
+
+<1344> a skos:Concept;
+  skos:broader <1290>;
+  skos:inScheme <3>;
+  skos:narrower <25621>,
+    <25622>;
+  skos:prefLabel "Kombinatorik"@de.
+
+<47087> a skos:Concept;
+  skos:prefLabel "QUALI"@de;
+  skos:broader <26457>;
+  skos:inScheme <3>.
+
+<131291> a skos:Concept;
+  skos:broader <107556>;
+  skos:inScheme <3>;
+  skos:prefLabel "Politisches System in Deutschland"@de.
+
+<175426> a skos:Concept;
+  skos:broader <71703>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Konstruktion von bzw. zu Berechnungen an besonderen Vierecken"@de.
+
+<143551> a skos:Concept;
+  skos:prefLabel "Kraft"@de;
+  skos:narrower <143826>;
+  skos:inScheme <3>;
+  skos:broader <48600>.
+
+<155791> a skos:Concept;
+  skos:broader <155780>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Alkanen, Alkenen und Alkinen"@de.
+
+<22842> a skos:Concept;
+  skos:prefLabel "Bedingte Wahrscheinlichkeit und Unabhängigkeit"@de;
+  skos:broader <1290>;
+  skos:narrower <1428>,
+    <1319>;
+  skos:inScheme <3>.
+
+<24525> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Kettenregel"@de;
+  skos:broader <1490>.
+
+<23256> a skos:Concept;
+  skos:narrower <155756>,
+    <155753>,
+    <155793>,
+    <155754>,
+    <155755>,
+    <155751>;
+  skos:broader <18230>;
+  skos:inScheme <3>;
+  skos:prefLabel "Chemische Bindung"@de.
+
+<183159> a skos:Concept;
+  skos:broader <25506>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Permakultur"@de.
+
+<43376> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <43042>;
+  skos:prefLabel "Aufgaben zum Thema Logarithmen"@de.
+
+<1304> a skos:Concept;
+  skos:narrower <1490>,
+    <1305>,
+    <24677>,
+    <24679>,
+    <1448>;
+  skos:broader <1289>;
+  skos:inScheme <3>;
+  skos:prefLabel "Ableitung von Funktionen "@de.
+
+<25674> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Subtraktion"@de;
+  skos:inScheme <3>;
+  skos:broader <1293>.
+
+<25631> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Bernoulli-Kette und Binomialverteilung"@de;
+  skos:inScheme <3>;
+  skos:broader <1320>.
+
+<47072> a skos:Concept;
+  skos:prefLabel "einzeln oder gemeinsam lernen"@de;
+  skos:broader <32931>;
+  skos:inScheme <3>.
+
+<117438> 
+  skos:narrower <117474>.
+
+<25624> a skos:Concept;
+  skos:prefLabel "Aufgaben zur relativen Häufigkeit"@de;
+  skos:inScheme <3>;
+  skos:broader <22779>.
+
+<66809> a skos:Concept;
+  skos:broader <1346>;
+  skos:prefLabel "Aufgaben zum Dreisatz"@de;
+  skos:inScheme <3>.
+
+<159258> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1427>;
+  skos:prefLabel "Aufgaben zu Extremwertproblemen im Koordinatensystem"@de.
+
+<197738> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Landeskunde"@de;
+  skos:broader <107557>.
+
+<1435> a skos:Concept;
+  skos:prefLabel "Winkel zwischen zwei Vektoren"@de;
+  skos:broader <24443>;
+  skos:inScheme <3>;
+  skos:narrower <30683>.
+
+<1352> a skos:Concept;
+  skos:broader <22778>;
+  skos:inScheme <3>;
+  skos:prefLabel "Diagramme"@de;
+  skos:narrower <25676>.
+
+<103047> a skos:Concept;
+  skos:broader <24370>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Charakterisierung von Dreiecken"@de.
+
+<173140> a skos:Concept;
+  skos:narrower <184723>,
+    <184725>,
+    <184724>,
+    <184727>,
+    <184726>;
+  skos:broader <173135>;
+  skos:inScheme <3>;
+  skos:prefLabel "Quadratische Funktionen"@de.
+
+<184791> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Mehrwertsteuer"@de;
+  skos:inScheme <3>;
+  skos:broader <218670>.
+
+<25122> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Runden von Dezimalzahlen"@de;
+  skos:broader <1360>;
+  skos:inScheme <3>.
+
+<1412> a skos:Concept;
+  skos:narrower <160062>,
+    <26401>;
+  skos:prefLabel "Gemischte Aufgaben zu quadratischen Funktionen"@de;
+  skos:inScheme <3>;
+  skos:broader <1348>.
+
+<24369> a skos:Concept;
+  skos:broader <1346>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben zu Proportionalität und Dreisatz"@de.
+
+<26457> 
+  skos:narrower <47089>,
+    <47090>,
+    <47088>,
+    <47091>,
+    <47087>.
+
+<69704> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Tabellenkalkulation"@de;
+  skos:broader <69554>;
+  skos:inScheme <3>.
+
+<129885> a skos:Concept;
+  skos:prefLabel "Messen und Bewegen"@de;
+  skos:broader <129469>;
+  skos:inScheme <3>.
+
+<26889> a skos:Concept;
+  skos:prefLabel " Fixed idioms "@de;
+  skos:broader <26872>;
+  skos:inScheme <3>.
+
+<25310> a skos:Concept;
+  skos:prefLabel "Essstörungen"@de;
+  skos:broader <23397>;
+  skos:inScheme <3>.
+
+<22778> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <1352>,
+    <22834>;
+  skos:prefLabel "Daten und Datendarstellung"@de;
+  skos:broader <1290>.
+
+<31912> a skos:Concept;
+  skos:prefLabel "Aufgaben zu linearen Funktionen und Geradengleichungen"@de;
+  skos:broader <1327>;
+  skos:inScheme <3>.
+
+<19468> a skos:Concept;
+  skos:prefLabel "Oxidationzahl"@de;
+  skos:inScheme <3>;
+  skos:broader <19461>.
+
+<179542> a skos:Concept;
+  skos:broader <157968>;
+  skos:inScheme <3>;
+  skos:prefLabel "Allgemeines zu den Konjugationen"@de.
+
+<128715> a skos:Concept;
+  skos:broader <128714>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Methanol und Ethanol"@de.
+
+<1430> a skos:Concept;
+  skos:prefLabel "Anwendungszusammenhänge und anderes"@de;
+  skos:narrower <20813>,
+    <1417>,
+    <1447>,
+    <1427>;
+  skos:inScheme <3>;
+  skos:broader <1289>.
+
+<1359> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1337>;
+  skos:narrower <30559>;
+  skos:prefLabel "Rechteck und Quadrat"@de.
+
+<7> a skos:Concept;
+  skos:prefLabel "Artikel und Videos aus Serlo 1"@de;
+  skos:inScheme <3>;
+  skos:broader <1397>.
+
+<207967> a skos:Concept;
+  skos:narrower <207978>;
+  skos:prefLabel "...für unser Miteinander"@de;
+  skos:broader <74950>;
+  skos:inScheme <3>.
+
+<210462> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <106081>;
+  skos:prefLabel "Deutsch"@de.
+
+<117325> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <111041>;
+  skos:prefLabel "Aufgaben zur Kinematik"@de.
+
+<19469> a skos:Concept;
+  skos:broader <19461>;
+  skos:narrower <146481>;
+  skos:prefLabel "Redoxreaktion"@de;
+  skos:inScheme <3>.
+
+<40473> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Konjunktion"@de;
+  skos:broader <25715>.
+
+<24394> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <24378>;
+  skos:prefLabel "Aufgaben zum Trapez"@de.
+
+<181353> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <174848>;
+  skos:prefLabel "Aufgaben zur Definitions- und Wertemenge"@de.
+
+<25777> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu ggT und kgV"@de;
+  skos:broader <1341>.
+
+<26396> a skos:Concept;
+  skos:prefLabel "Aufgaben zu linearen Funktionen, Nullstellen, Achsenschnittpunkten u.a."@de;
+  skos:inScheme <3>;
+  skos:broader <1327>.
+
+<43324> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Thema Relationen"@de;
+  skos:broader <43042>.
+
+<106092> a skos:Concept;
+  skos:prefLabel "Immerfeuchte Tropen "@de;
+  skos:broader <106091>;
+  skos:inScheme <3>;
+  skos:narrower <146445>.
+
+<155756> a skos:Concept;
+  skos:prefLabel "Funktionelle Gruppen"@de;
+  skos:broader <23256>;
+  skos:inScheme <3>.
+
+<24551> a skos:Concept;
+  skos:broader <22834>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Median"@de.
+
+<1348> a skos:Concept;
+  skos:narrower <1412>,
+    <160065>,
+    <1482>,
+    <1411>,
+    <1444>,
+    <1483>,
+    <1487>;
+  skos:inScheme <3>;
+  skos:broader <1303>;
+  skos:prefLabel "Quadratische Funktionen - Parabeln"@de.
+
+<19462> a skos:Concept;
+  skos:prefLabel "Säure-Base-Reaktion"@de;
+  skos:broader <25888>;
+  skos:inScheme <3>.
+
+<218669> 
+  skos:narrower <140478>.
+
+<26407> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum graphischen Differenzieren "@de;
+  skos:broader <24677>.
+
+<155713> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <155709>;
+  skos:prefLabel "Was ist Chemie?"@de.
+
+<26382> 
+  skos:narrower <46889>,
+    <46903>,
+    <46892>,
+    <46906>,
+    <46905>,
+    <46902>,
+    <46904>,
+    <46883>,
+    <46916>,
+    <46894>,
+    <46901>.
+
+<62758> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Umfang und Fläche eines Kreises"@de;
+  skos:inScheme <3>;
+  skos:broader <1338>.
+
+<26052> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <123487>;
+  skos:prefLabel "Komposttoilette "@de.
+
+<128639> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Einfachen Gegenwart  -  Simple Present"@de;
+  skos:broader <128638>;
+  skos:inScheme <3>.
+
+<24361> a skos:Concept;
+  skos:broader <1363>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Umrechnen von Zeiteinheiten"@de.
+
+<1472> a skos:Concept;
+  skos:prefLabel "Lagebeziehung zweier Ebenen"@de;
+  skos:narrower <30688>;
+  skos:inScheme <3>;
+  skos:broader <1460>.
+
+<173136> a skos:Concept;
+  skos:narrower <184718>,
+    <184719>,
+    <184714>,
+    <184717>,
+    <184713>,
+    <184716>,
+    <184715>,
+    <184708>;
+  skos:prefLabel "Funktionen allgemein"@de;
+  skos:inScheme <3>;
+  skos:broader <173135>.
+
+<26890> a skos:Concept;
+  skos:prefLabel " Numbers"@de;
+  skos:inScheme <3>;
+  skos:broader <26872>.
+
+<75211> a skos:Concept;
+  skos:narrower <200247>,
+    <48965>;
+  skos:prefLabel "Baustelle"@de;
+  skos:inScheme <3>;
+  skos:broader <47899>.
+
+<46626> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <48617>;
+  skos:narrower <64284>;
+  skos:prefLabel "Stromkreise mit ohmschen Widerständen"@de.
+
+<203211> a skos:Concept;
+  skos:prefLabel "Gesine testet"@de;
+  skos:broader <209103>;
+  skos:inScheme <3>.
+
+<1322> a skos:Concept;
+  skos:narrower <26305>,
+    <26304>,
+    <40684>,
+    <40685>,
+    <40686>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Aufgaben zum Bruchrechnen"@de;
+  skos:broader <1389>.
+
+<26134> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <23270>;
+  skos:prefLabel "Synthese von Kunststoffen"@de.
+
+<96765> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Zahlensystemen"@de;
+  skos:inScheme <3>;
+  skos:broader <24713>.
+
+<25379> a skos:Concept;
+  skos:prefLabel "Gemischte Aufgaben zu Geraden, Strecken oder Halbgeraden"@de;
+  skos:broader <24233>;
+  skos:inScheme <3>.
+
+<155714> a skos:Concept;
+  skos:broader <155709>;
+  skos:prefLabel "Grundlagenbegriffe"@de;
+  skos:inScheme <3>.
+
+<129147> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <129148>;
+  skos:broader <129143>;
+  skos:prefLabel "Einfache Vergangenheit - Simple Past"@de.
+
+<24233> a skos:Concept;
+  skos:narrower <60026>,
+    <60027>,
+    <25379>;
+  skos:inScheme <3>;
+  skos:broader <1454>;
+  skos:prefLabel "Geraden, Strecken und Halbgeraden"@de.
+
+<1331> a skos:Concept;
+  skos:narrower <1333>,
+    <1484>,
+    <1392>,
+    <1485>,
+    <1375>,
+    <1326>;
+  skos:broader <1390>;
+  skos:inScheme <3>;
+  skos:prefLabel "Terme und Variablen"@de.
+
+<1458> a skos:Concept;
+  skos:broader <1373>;
+  skos:inScheme <3>;
+  skos:narrower <26412>;
+  skos:prefLabel "Monotonie und Extrema"@de.
+
+<140478> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Angebot und Nachfrage"@de;
+  skos:broader <218669>;
+  skos:inScheme <3>.
+
+<23673> a skos:Concept;
+  skos:narrower <111507>,
+    <25481>,
+    <111516>,
+    <111518>;
+  skos:inScheme <3>;
+  skos:prefLabel "Quadratwurzeln"@de;
+  skos:broader <1329>.
+
+<64645> a skos:Concept;
+  skos:broader <20446>;
+  skos:prefLabel "Gemischte Aufgaben zu Funktionen"@de;
+  skos:inScheme <3>.
+
+<25307> a skos:Concept;
+  skos:broader <23397>;
+  skos:inScheme <3>;
+  skos:prefLabel "Sucht, Abhängigkeit und Therapie"@de;
+  skos:narrower <25739>.
+
+<23385> a skos:Concept;
+  skos:prefLabel "Moose"@de;
+  skos:broader <23380>;
+  skos:inScheme <3>.
+
+<26260> a skos:Concept;
+  skos:prefLabel "Gemischte Aufgaben zu Bruchgleichungen"@de;
+  skos:inScheme <3>;
+  skos:broader <1403>.
+
+<1365> a skos:Concept;
+  skos:broader <1363>;
+  skos:inScheme <3>;
+  skos:prefLabel "Gemischte Sachaufgaben zu Einheiten und Größen ALT"@de.
+
+<24669> a skos:Concept;
+  skos:broader <17132>;
+  skos:prefLabel "Grenzwert"@de;
+  skos:narrower <84261>;
+  skos:inScheme <3>.
+
+<43487> a skos:Concept;
+  skos:broader <43042>;
+  skos:prefLabel "Aufgaben zum Thema Lineare Gleichungssysteme"@de;
+  skos:inScheme <3>.
+
+<1288> a skos:Concept;
+  skos:narrower <24410>,
+    <1413>,
+    <24518>,
+    <24422>,
+    <1394>,
+    <1454>,
+    <1383>,
+    <1300>,
+    <1380>,
+    <1381>;
+  skos:prefLabel "Geometrie"@de;
+  skos:inScheme <3>;
+  skos:broader <5>.
+
+<63538> a skos:Concept;
+  skos:prefLabel "Aufgaben zur Oberfläche"@de;
+  skos:broader <24435>;
+  skos:inScheme <3>.
+
+<167486> a skos:Concept;
+  skos:broader <1382>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Kongruenz und Ähnlichkeit von Dreiecken"@de.
+
+<24688> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Berechnen von Grenzwerten"@de;
+  skos:inScheme <3>;
+  skos:broader <1374>.
+
+<24571> a skos:Concept;
+  skos:broader <1418>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zu Geradengleichungen in der Ebene"@de.
+
+<1371> a skos:Concept;
+  skos:narrower <24359>,
+    <1396>,
+    <1431>,
+    <1403>,
+    <1488>,
+    <1406>,
+    <1393>;
+  skos:prefLabel "Gleichungen"@de;
+  skos:inScheme <3>;
+  skos:broader <1390>.
+
+<30747> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <1487>;
+  skos:prefLabel "Aufgaben zu Tangenten an Parabeln"@de.
+
+<1393> a skos:Concept;
+  skos:narrower <26258>,
+    <80261>,
+    <53893>;
+  skos:inScheme <3>;
+  skos:broader <1371>;
+  skos:prefLabel "Lineare Gleichungen"@de.
+
+<24358> a skos:Concept;
+  skos:prefLabel "Komplexe Zahlen"@de;
+  skos:inScheme <3>;
+  skos:broader <24142>.
+
+<97589> a skos:Concept;
+  skos:broader <1292>;
+  skos:prefLabel "Aufgaben zur schriftlichen Addition natürlicher Zahlen"@de;
+  skos:inScheme <3>.
+
+<169685> a skos:Concept;
+  skos:broader <167515>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Bundesrat"@de.
+
+<113585> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum Datenflussdiagramm"@de;
+  skos:broader <69554>.
+
+<1299> a skos:Concept;
+  skos:inScheme <3>;
+  skos:prefLabel "Umformen von Brüchen in Dezimalbrüche"@de;
+  skos:broader <1389>;
+  skos:narrower <25113>.
+
+<1438> a skos:Concept;
+  skos:narrower <26413>;
+  skos:broader <1373>;
+  skos:prefLabel "Wertemenge"@de;
+  skos:inScheme <3>.
+
+<169558> a skos:Concept;
+  skos:inScheme <3>;
+  skos:broader <191650>;
+  skos:prefLabel "Naturgefahren"@de.
+
+<129469> a skos:Concept;
+  skos:narrower <129885>,
+    <129537>,
+    <129886>,
+    <140213>,
+    <129538>;
+  skos:broader <76683>;
+  skos:inScheme <3>;
+  skos:prefLabel "Internet der Dinge mit CircuitPython"@de.
+
+<111507> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Rechnen mit Quadratwurzeln"@de;
+  skos:inScheme <3>;
+  skos:broader <23673>.
+
+<219536> a skos:Concept;
+  skos:prefLabel "Besondere Verben"@de;
+  skos:broader <157968>;
+  skos:inScheme <3>.
+
+<169880> a skos:Concept;
+  skos:prefLabel "Aufgaben-Baustelle"@de;
+  skos:inScheme <3>;
+  skos:broader <105140>.
+
+<1417> a skos:Concept;
+  skos:prefLabel "Wachstums- und Zerfallsprozesse"@de;
+  skos:broader <1430>;
+  skos:inScheme <3>;
+  skos:narrower <26418>.
+
+<60033> a skos:Concept;
+  skos:broader <24498>;
+  skos:prefLabel "Aufgaben zur Achsensymmetrie"@de;
+  skos:inScheme <3>.
+
+<155754> a skos:Concept;
+  skos:prefLabel "Kovalente Bindungen"@de;
+  skos:inScheme <3>;
+  skos:broader <23256>.
+
+<1454> a skos:Concept;
+  skos:prefLabel "Grundbegriffe"@de;
+  skos:narrower <24233>,
+    <1357>,
+    <1358>,
+    <1384>,
+    <24497>,
+    <24498>;
+  skos:broader <1288>;
+  skos:inScheme <3>.
+
+<25107> a skos:Concept;
+  skos:inScheme <3>;
+  skos:narrower <41402>,
+    <34780>,
+    <117258>,
+    <52772>;
+  skos:prefLabel "Zum Testen"@de;
+  skos:broader <1397>.
+
+<60034> a skos:Concept;
+  skos:broader <24498>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zur Punktsymmetrie"@de.
+
+<69314> a skos:Concept;
+  skos:prefLabel "Aufgaben zu Drachenviereck und Raute"@de;
+  skos:inScheme <3>;
+  skos:broader <24378>.
+
+<25616> a skos:Concept;
+  skos:prefLabel "Aufgaben zum Baumdiagramm"@de;
+  skos:broader <1399>;
+  skos:inScheme <3>.
+
+<114704> a skos:Concept;
+  skos:broader <41107>;
+  skos:inScheme <3>;
+  skos:narrower <114714>,
+    <114715>,
+    <114712>,
+    <114716>,
+    <114713>;
+  skos:prefLabel "Grundlagen"@de.
+
+<26872> a skos:Concept;
+  skos:narrower <26888>,
+    <26889>,
+    <26884>,
+    <26883>,
+    <26886>,
+    <26887>,
+    <26890>,
+    <26885>;
+  skos:broader <25979>;
+  skos:inScheme <3>;
+  skos:prefLabel "Grammar"@de.
+
+<48613> a skos:Concept;
+  skos:prefLabel "Prinzipien der Quantenmechanik"@de;
+  skos:broader <48260>;
+  skos:inScheme <3>.
+
+<1315> a skos:Concept;
+  skos:broader <1313>;
+  skos:inScheme <3>;
+  skos:narrower <25615>;
+  skos:prefLabel "Ereignisse"@de.
+
+<23766> a skos:Concept;
+  skos:prefLabel "Besondere Linien und Punkte im Dreieck"@de;
+  skos:narrower <36441>,
+    <36440>,
+    <36439>,
+    <36437>;
+  skos:broader <1336>;
+  skos:inScheme <3>.
+
+<108564> a skos:Concept;
+  skos:broader <82914>;
+  skos:inScheme <3>;
+  skos:prefLabel "Aufgaben zum politischen System in Deutschland"@de.
+
+<1492> a skos:Concept;
+  skos:narrower <129066>,
+    <41372>,
+    <158383>;
+  skos:prefLabel "Schnittpunkte von Graphen"@de;
+  skos:inScheme <3>;
+  skos:broader <1302>.
+
+<38458> a skos:Concept;
+  skos:prefLabel "Vertiefungsaufgaben zur Prozentrechnung"@de;
+  skos:broader <1377>;
+  skos:inScheme <3>.
+
+<26408> a skos:Concept;
+  skos:prefLabel "Gemischte Aufgaben zum Ableiten von Funktionen"@de;
+  skos:inScheme <3>;
+  skos:broader <1305>.
+
+
